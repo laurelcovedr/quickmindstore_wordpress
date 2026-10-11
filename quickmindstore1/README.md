@@ -22,16 +22,15 @@ Then open http://localhost:8080/. Root-relative assets require an HTTP server.
 - commerce/: discount, attribution and invoice design specifications.
 - shopify-theme/, shopify-handoff/, build-theme.cjs: inherited legacy scaffold; not deployed by Store1.
 
-## Rebuild (Node.js)
+## Rebuild (Node.js, Python3 + lxml)
 ```
-node scripts/build-seo.cjs
-node scripts/build-languages.cjs
-node scripts/finish-store1.cjs
+node scripts/build-store1.cjs
 ```
 For another host update seo-config.json and dist/seo.js. Hosting identity and credentials are excluded; importing this directory does not deploy or replace any website.
 
 ## Checks
 ```
+node scripts/test-seo-geo.cjs
 node scripts/test-interactions.cjs
 node scripts/test-languages.cjs
 node scripts/test-geolocation.cjs
@@ -46,3 +45,5 @@ Static and mocked checks do not validate real payment or browser layout.
 Eight languages; IP-based defaults with manual overrides; indicative local-currency display. Existing PayPal hosted button settles USD. No automatic order synchronization, recurring billing, invoice emails or dealer settlement. Enquiry forms prepare email drafts. Coupon/dealer/invoice functionality remains a design demonstration. Proposed prices and terms require written confirmation.
 
 Contains no customer database, WordPress server backup, Git credentials or payment secrets. Existing merchant contact details and PayPal public SDK client ID are retained.
+
+SEO / GEO release: see SEO_GEO.md and /pages/seo-geo-review/. This release remains private and noindex; public indexing and live AI citations have not been measured.

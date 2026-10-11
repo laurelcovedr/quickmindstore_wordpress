@@ -1,0 +1,18 @@
+{
+  "before": {
+    "pages": 243,
+    "errors": 0,
+    "duplicateDescriptionPages": 37
+  },
+  "after": {
+    "pages": 244,
+    "errors": 0,
+    "duplicateDescriptionPages": 2
+  },
+  "scope": "QuickMind Store1 private comparison preview",
+  "private": true,
+  "runtimeHreflangOldOrigin": "FIXED",
+  "browserVisualQA": "NOT_RUN",
+  "searchConsole": "NOT_CONNECTED",
+  "liveSearchVisibility": "Not measurable while owner-private/noindex"
+}

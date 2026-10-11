@@ -1,0 +1,2198 @@
+[
+  {
+    "route": "/de/home-product/",
+    "kind": "product",
+    "language": "de",
+    "title": "QuickMind Home | QuickMind",
+    "description": "QuickMind verbindet immersive VR-Aktivitäten mit kognitivem Training für eine häusliche Routine mit Unterstützung durch Betreuungspersonen. Aufmerksamkeit, Gedächtnis, Rechnen,…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/home-product/",
+    "mainCharacters": 1451
+  },
+  {
+    "route": "/de/",
+    "kind": "home",
+    "language": "de",
+    "title": "Kognitives VR-Training für zu Hause. | QuickMind",
+    "description": "QuickMind verbindet immersive VR-Aktivitäten mit kognitivem Training für eine häusliche Routine mit Unterstützung durch Betreuungspersonen.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/",
+    "mainCharacters": 2312
+  },
+  {
+    "route": "/de/pages/answers/clinic-distributor/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Wie erhalten Kliniken oder Vertriebspartner eine Demo? | QuickMind",
+    "description": "Gemeinsames Formular verwenden, Kundentyp wählen und Land, Organisation, Anzahl und Anforderungen angeben.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/clinic-distributor/",
+    "mainCharacters": 752
+  },
+  {
+    "route": "/de/pages/answers/evidence/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Welche Forschung liegt vor? | QuickMind",
+    "description": "Vier Veröffentlichungen behandeln Untersuchung und Screening; sie belegen nicht die therapeutische Wirksamkeit des Heimangebots.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/evidence/",
+    "mainCharacters": 879
+  },
+  {
+    "route": "/de/pages/answers/first-year-price/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Was kostet das erste Jahr? | QuickMind",
+    "description": "US-Vorschlag: 445,30 EUR anfängliche Gerätemiete plus 1.783,87 EUR Jahresabo, insgesamt 2.229,17 EUR ohne Steuern und Versand.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/first-year-price/",
+    "mainCharacters": 1014
+  },
+  {
+    "route": "/de/pages/answers/home-vs-clinic/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Wie unterscheiden sich Heim- und Klinikangebot? | QuickMind",
+    "description": "Das Heimangebot ist für einen Nutzer vorgesehen und enthält keine klinische Untersuchung; Klinikmodule und Kapazität werden separat vereinbart.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/home-vs-clinic/",
+    "mainCharacters": 748
+  },
+  {
+    "route": "/de/pages/answers/international-delivery/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Können Sie in mein Land liefern? | QuickMind",
+    "description": "Anfragen für USA, Europa, Japan, Korea, Südostasien, Nahost und andere Ziele sind möglich; Verfügbarkeit bestätigen.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/international-delivery/",
+    "mainCharacters": 934
+  },
+  {
+    "route": "/de/pages/answers/languages/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Welche Sprachen unterstützt die Software? | QuickMind",
+    "description": "Sprache der Aktivitäten, Berichte und Unterstützung für die konkrete Version bestätigen; die Website-Sprache garantiert dies nicht.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/languages/",
+    "mainCharacters": 873
+  },
+  {
+    "route": "/de/pages/answers/overseas-scenes/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Wo wurde das System international gezeigt? | QuickMind",
+    "description": "Fotos zeigen Vorführungen in Singapur und Indonesien sowie Anwendungen in Hongkong, ohne klinische Wirksamkeit zu belegen.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/overseas-scenes/",
+    "mainCharacters": 886
+  },
+  {
+    "route": "/de/pages/answers/paypal-payment/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Wie bezahle ich mit PayPal oder Karte? | QuickMind",
+    "description": "Nach Angebotsbestätigung den offiziellen Button nutzen. PayPal bestimmt Zahlungsarten; keine automatische Bestellsynchronisierung. PayPal-Zahlungen werden in USD abgerechnet.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/paypal-payment/",
+    "mainCharacters": 926
+  },
+  {
+    "route": "/de/pages/answers/progress-reports/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Gibt es Fortschrittsberichte? | QuickMind",
+    "description": "Berichte können Training und verfügbare Leistungswerte zeigen. Zugang für Betreuungspersonen und Format sind zu bestätigen.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/progress-reports/",
+    "mainCharacters": 870
+  },
+  {
+    "route": "/de/pages/answers/registrations/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Ist das Produkt in meinem Land zugelassen? | QuickMind",
+    "description": "Unterlagen gelten für bestimmte Produkte und Märkte. Den aktuellen örtlichen Status des Modells vor Kauf bestätigen.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/registrations/",
+    "mainCharacters": 884
+  },
+  {
+    "route": "/de/pages/answers/renewal/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Wie verlängert sich das Abonnement? | QuickMind",
+    "description": "Vorgeschlagen sind 1.783,87 EUR jährlich bei fortlaufender Miete. Termine und Kündigung vereinbaren; der Button erstellt keine automatische Verlängerung.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/renewal/",
+    "mainCharacters": 999
+  },
+  {
+    "route": "/de/pages/answers/rental-ownership/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Gehört mir das Headset nach der Zahlung? | QuickMind",
+    "description": "Nein, es bleibt Eigentum des Anbieters. Die 445,30 EUR werden nicht als rückzahlbare Kaution beschrieben.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/rental-ownership/",
+    "mainCharacters": 1008
+  },
+  {
+    "route": "/de/pages/answers/returns-cancellation/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Was gilt bei Kündigung oder Rückgabe? | QuickMind",
+    "description": "Erstattung, Fristen, Porto und Schäden vor Zahlung schriftlich vereinbaren; es gibt keine zugesagte allgemeine Rückgaberegel.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/returns-cancellation/",
+    "mainCharacters": 932
+  },
+  {
+    "route": "/de/pages/answers/setup-requirements/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Was brauche ich zur Einrichtung? | QuickMind",
+    "description": "Internet, sicherer Platz, Zusatzgerät und Konto hängen vom Modell ab. Fordern Sie die Installationsanleitung an.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/setup-requirements/",
+    "mainCharacters": 882
+  },
+  {
+    "route": "/de/pages/answers/support-warranty/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Welchen Support und welche Garantie gibt es? | QuickMind",
+    "description": "Das Angebot bestätigt Ferninstallation, Sprachen, Garantiedauer und Serviceumfang.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/support-warranty/",
+    "mainCharacters": 819
+  },
+  {
+    "route": "/de/pages/answers/training-activities/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Welche Trainingsaktivitäten gibt es? | QuickMind",
+    "description": "Die Unterlagen beschreiben Aufmerksamkeit, Gedächtnis, Rechnen, Abstraktion und exekutive Funktionen; der Umfang hängt von der Version ab.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/training-activities/",
+    "mainCharacters": 895
+  },
+  {
+    "route": "/de/pages/answers/training-schedule/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Wie lange sollte ich trainieren? | QuickMind",
+    "description": "Befolgen Sie Produktanleitung und geeignete fachliche Empfehlungen; die Website gibt keinen allgemeinen Trainingsplan vor.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/training-schedule/",
+    "mainCharacters": 863
+  },
+  {
+    "route": "/de/pages/answers/what-is-included/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Welche Geräte sind enthalten? | QuickMind",
+    "description": "Ein Miet-Headset ist vorgesehen; Controller, Ladegerät und Zusatzgeräte werden im Angebot aufgelistet.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/what-is-included/",
+    "mainCharacters": 880
+  },
+  {
+    "route": "/de/pages/answers/what-is-quickmind/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Was ist QuickMind Home? | QuickMind",
+    "description": "Ein vorgeschlagenes Angebot aus gemietetem VR-Gerät und jährlichem Training-Abonnement; die Konfiguration steht im Angebot.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/what-is-quickmind/",
+    "mainCharacters": 893
+  },
+  {
+    "route": "/de/pages/answers/who-is-it-for/",
+    "kind": "answer",
+    "language": "de",
+    "title": "Für wen ist das System geeignet? | QuickMind",
+    "description": "Das hängt von Modell, Zweck und Bedürfnissen ab. Alter, Vorsichtsmaßnahmen und notwendige fachliche Betreuung bestätigen.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/answers/who-is-it-for/",
+    "mainCharacters": 889
+  },
+  {
+    "route": "/de/pages/clinical-evidence/",
+    "kind": "evidence",
+    "language": "de",
+    "title": "Forschung | QuickMind",
+    "description": "Die Studien betreffen Untersuchung oder Screening und belegen nicht die therapeutische Wirksamkeit des Heimangebots. Prüfen Sie die Zuordnung zum konkreten Modell und Verwendungszweck.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/clinical-evidence/",
+    "mainCharacters": 3898
+  },
+  {
+    "route": "/de/pages/compare/",
+    "kind": "compare",
+    "language": "de",
+    "title": "Angebote vergleichen | QuickMind",
+    "description": "Kognitives Heimtraining für Nutzer und Betreuungspersonen Untersuchung und/oder Training in Einrichtungen; Module und Lizenzen gesondert angeboten Lokaler Vertrieb, Vorführungen,…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/compare/",
+    "mainCharacters": 1087
+  },
+  {
+    "route": "/de/pages/contact/",
+    "kind": "contact",
+    "language": "de",
+    "title": "Kontakt | QuickMind",
+    "description": "Land, Sprache und Anzahl angeben, um Verfügbarkeit, Versand und Lieferzeit zu bestätigen. Einrichtung, Fernsupport, Garantie und Supportsprache richten sich nach dem Angebot.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/contact/",
+    "mainCharacters": 1073
+  },
+  {
+    "route": "/de/pages/faq/",
+    "kind": "faq",
+    "language": "de",
+    "title": "FAQ | QuickMind",
+    "description": "Alle 20 Fragen Was kostet das erste Jahr? Wie bezahle ich mit PayPal oder Karte?",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/faq/",
+    "mainCharacters": 4024
+  },
+  {
+    "route": "/de/pages/insights/",
+    "kind": "insights",
+    "language": "de",
+    "title": "Seitenanalyse | QuickMind",
+    "description": "Dies sind KI-Inhaltshypothesen, keine gemessenen Verweilraten. Beobachtungen bleiben in diesem Browser; keine globale Analyse ist angeschlossen.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/insights/",
+    "mainCharacters": 559
+  },
+  {
+    "route": "/de/pages/international-scenes/",
+    "kind": "scenes",
+    "language": "de",
+    "title": "Internationale Einblicke | QuickMind",
+    "description": "Die Fotos zeigen Vorführungen in Singapur und Indonesien sowie gemeindenahe Anwendungen in Hongkong, keine nachgewiesenen Behandlungsergebnisse.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/international-scenes/",
+    "mainCharacters": 1339
+  },
+  {
+    "route": "/de/pages/registrations/",
+    "kind": "registrations",
+    "language": "de",
+    "title": "Registrierungsunterlagen | QuickMind",
+    "description": "Registrierungs- und Konformitätsunterlagen gelten für bestimmte Produkte und Märkte, nicht als weltweite Zulassung. Originaldokumente bleiben in ihrer Ursprungssprache.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pages/registrations/",
+    "mainCharacters": 2906
+  },
+  {
+    "route": "/de/pricing/",
+    "kind": "pricing",
+    "language": "de",
+    "title": "Angebote und Preise | QuickMind",
+    "description": "Kognitives Heimtraining für Nutzer und Betreuungspersonen Ohne Steuern und Versand; Umrechnung des USD-Basispreises. Konfiguration und Endbetrag laut schriftlichem Angebot.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/de/pricing/",
+    "mainCharacters": 1232
+  },
+  {
+    "route": "/es/home-product/",
+    "kind": "product",
+    "language": "es",
+    "title": "QuickMind Home | QuickMind",
+    "description": "QuickMind combina actividades inmersivas de realidad virtual con entrenamiento cognitivo para una rutina en casa con apoyo del cuidador. Atención, memoria, cálculo, abstracción y…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/home-product/",
+    "mainCharacters": 1420
+  },
+  {
+    "route": "/es/",
+    "kind": "home",
+    "language": "es",
+    "title": "Entrenamiento cognitivo VR en casa. | QuickMind",
+    "description": "QuickMind combina actividades inmersivas de realidad virtual con entrenamiento cognitivo para una rutina en casa con apoyo del cuidador.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/",
+    "mainCharacters": 2146
+  },
+  {
+    "route": "/es/pages/answers/clinic-distributor/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Cómo pide una demostración una clínica o distribuidor? | QuickMind",
+    "description": "Utilice el formulario común, elija su perfil e indique país, organización, cantidad y necesidades.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/clinic-distributor/",
+    "mainCharacters": 735
+  },
+  {
+    "route": "/es/pages/answers/evidence/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Qué evidencia científica existe? | QuickMind",
+    "description": "Hay cuatro publicaciones sobre evaluación y cribado; no prueban la eficacia terapéutica del plan doméstico.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/evidence/",
+    "mainCharacters": 838
+  },
+  {
+    "route": "/es/pages/answers/first-year-price/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Cuánto cuesta el primer año? | QuickMind",
+    "description": "Propuesta estadounidense: 445,30 EUR de alquiler inicial más 1783,87 EUR de suscripción anual, total 2229,17 EUR sin impuestos ni envío.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/first-year-price/",
+    "mainCharacters": 986
+  },
+  {
+    "route": "/es/pages/answers/home-vs-clinic/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿En qué se diferencia el hogar de una clínica? | QuickMind",
+    "description": "El plan doméstico propuesto es para un usuario y no incluye evaluación clínica; capacidad y módulos clínicos se cotizan aparte.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/home-vs-clinic/",
+    "mainCharacters": 731
+  },
+  {
+    "route": "/es/pages/answers/international-delivery/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Pueden enviar a mi país? | QuickMind",
+    "description": "Se aceptan consultas para EE. UU., Europa, Japón, Corea, Sudeste Asiático, Oriente Medio y otros destinos; confirme disponibilidad.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/international-delivery/",
+    "mainCharacters": 898
+  },
+  {
+    "route": "/es/pages/answers/languages/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Qué idiomas admite el software? | QuickMind",
+    "description": "Confirme el idioma de actividades, informes y asistencia de la versión exacta. El idioma del sitio no garantiza el del software.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/languages/",
+    "mainCharacters": 824
+  },
+  {
+    "route": "/es/pages/answers/overseas-scenes/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Dónde se ha mostrado en el extranjero? | QuickMind",
+    "description": "Hay fotos de demostraciones en Singapur e Indonesia y sesiones comunitarias en Hong Kong, sin afirmar resultados clínicos.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/overseas-scenes/",
+    "mainCharacters": 845
+  },
+  {
+    "route": "/es/pages/answers/paypal-payment/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Cómo pago con PayPal o tarjeta? | QuickMind",
+    "description": "Use el botón oficial tras confirmar el presupuesto. PayPal determina los métodos; el pedido no se sincroniza automáticamente. La moneda de cobro en PayPal es USD.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/paypal-payment/",
+    "mainCharacters": 890
+  },
+  {
+    "route": "/es/pages/answers/progress-reports/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Hay informes de progreso? | QuickMind",
+    "description": "Pueden mostrar actividad e indicadores disponibles. Acceso del cuidador y formato se confirman según la configuración.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/progress-reports/",
+    "mainCharacters": 832
+  },
+  {
+    "route": "/es/pages/answers/registrations/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Está autorizado en mi país? | QuickMind",
+    "description": "Los documentos son específicos de producto y mercado. Confirme la situación actual del modelo antes de comprar.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/registrations/",
+    "mainCharacters": 843
+  },
+  {
+    "route": "/es/pages/answers/renewal/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Cómo se renueva la suscripción? | QuickMind",
+    "description": "Se proponen 1783,87 EUR al año con alquiler continuado. Fechas y cancelación se acuerdan; el botón no crea renovación automática.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/renewal/",
+    "mainCharacters": 972
+  },
+  {
+    "route": "/es/pages/answers/rental-ownership/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Seré propietario del visor? | QuickMind",
+    "description": "No, el proveedor conserva la propiedad. Los 445,30 EUR no se describen como depósito reembolsable.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/rental-ownership/",
+    "mainCharacters": 982
+  },
+  {
+    "route": "/es/pages/answers/returns-cancellation/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Qué ocurre si cancelo o devuelvo? | QuickMind",
+    "description": "Reembolso, plazos, portes y daños se acuerdan por escrito antes de pagar; no se promete una política universal.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/returns-cancellation/",
+    "mainCharacters": 896
+  },
+  {
+    "route": "/es/pages/answers/setup-requirements/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Qué necesito para instalarlo? | QuickMind",
+    "description": "Confirme conexión, espacio seguro, dispositivo complementario y cuenta según el modelo; solicite la guía.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/setup-requirements/",
+    "mainCharacters": 833
+  },
+  {
+    "route": "/es/pages/answers/support-warranty/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Qué asistencia y garantía hay? | QuickMind",
+    "description": "El presupuesto confirma instalación remota, idiomas, duración de garantía y cobertura.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/support-warranty/",
+    "mainCharacters": 780
+  },
+  {
+    "route": "/es/pages/answers/training-activities/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Qué actividades incluye? | QuickMind",
+    "description": "Los materiales describen atención, memoria, cálculo, abstracción y funciones ejecutivas; la biblioteca depende de la versión.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/training-activities/",
+    "mainCharacters": 841
+  },
+  {
+    "route": "/es/pages/answers/training-schedule/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Cuánto tiempo debo entrenar? | QuickMind",
+    "description": "Siga las instrucciones del producto y la orientación profesional pertinente; no hay una pauta universal en este sitio.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/training-schedule/",
+    "mainCharacters": 819
+  },
+  {
+    "route": "/es/pages/answers/what-is-included/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Qué equipo se incluye? | QuickMind",
+    "description": "Se propone un visor alquilado; mandos, cargador y otros dispositivos se detallan por escrito.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/what-is-included/",
+    "mainCharacters": 831
+  },
+  {
+    "route": "/es/pages/answers/what-is-quickmind/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Qué es QuickMind Home? | QuickMind",
+    "description": "Una propuesta de equipo VR alquilado con suscripción anual de entrenamiento cognitivo; la configuración se confirma en el presupuesto.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/what-is-quickmind/",
+    "mainCharacters": 839
+  },
+  {
+    "route": "/es/pages/answers/who-is-it-for/",
+    "kind": "answer",
+    "language": "es",
+    "title": "¿Para quién es adecuado? | QuickMind",
+    "description": "Depende del modelo, uso y necesidades. Confirme edad, precauciones y supervisión profesional necesaria.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/answers/who-is-it-for/",
+    "mainCharacters": 835
+  },
+  {
+    "route": "/es/pages/clinical-evidence/",
+    "kind": "evidence",
+    "language": "es",
+    "title": "Evidencia | QuickMind",
+    "description": "Los estudios se refieren a evaluación o cribado; no demuestran la eficacia terapéutica del plan doméstico. Compruebe su relación con el modelo y uso exactos.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/clinical-evidence/",
+    "mainCharacters": 3745
+  },
+  {
+    "route": "/es/pages/compare/",
+    "kind": "compare",
+    "language": "es",
+    "title": "Comparar planes | QuickMind",
+    "description": "Entrenamiento cognitivo doméstico para usuarios y cuidadores Evaluación y/o entrenamiento institucional; módulos y licencias cotizados aparte Ventas locales, demostraciones,…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/compare/",
+    "mainCharacters": 1136
+  },
+  {
+    "route": "/es/pages/contact/",
+    "kind": "contact",
+    "language": "es",
+    "title": "Contacto | QuickMind",
+    "description": "Indique país, idioma y cantidad para confirmar disponibilidad, envío y plazo de entrega. La instalación, asistencia remota, garantía e idioma de soporte dependen del presupuesto.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/contact/",
+    "mainCharacters": 1064
+  },
+  {
+    "route": "/es/pages/faq/",
+    "kind": "faq",
+    "language": "es",
+    "title": "Preguntas | QuickMind",
+    "description": "Las 20 preguntas ¿Cuánto cuesta el primer año? ¿Cómo pago con PayPal o tarjeta?",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/faq/",
+    "mainCharacters": 3897
+  },
+  {
+    "route": "/es/pages/insights/",
+    "kind": "insights",
+    "language": "es",
+    "title": "Análisis de interacción | QuickMind",
+    "description": "Son hipótesis de contenido de IA, no tasas medidas. Las observaciones se guardan solo en este navegador, sin análisis global conectado.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/insights/",
+    "mainCharacters": 555
+  },
+  {
+    "route": "/es/pages/international-scenes/",
+    "kind": "scenes",
+    "language": "es",
+    "title": "Experiencias internacionales | QuickMind",
+    "description": "Las fotos muestran demostraciones en Singapur e Indonesia y sesiones comunitarias en Hong Kong; no acreditan resultados clínicos.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/international-scenes/",
+    "mainCharacters": 1252
+  },
+  {
+    "route": "/es/pages/registrations/",
+    "kind": "registrations",
+    "language": "es",
+    "title": "Documentación de registro | QuickMind",
+    "description": "Los registros y documentos de conformidad corresponden a productos y mercados concretos, sin implicar aprobación mundial. Los originales mantienen su idioma.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pages/registrations/",
+    "mainCharacters": 2811
+  },
+  {
+    "route": "/es/pricing/",
+    "kind": "pricing",
+    "language": "es",
+    "title": "Planes y precios | QuickMind",
+    "description": "Entrenamiento cognitivo doméstico para usuarios y cuidadores Sin impuestos ni envío; conversión del precio base en USD. El presupuesto escrito confirma configuración y total.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/es/pricing/",
+    "mainCharacters": 1253
+  },
+  {
+    "route": "/fr/home-product/",
+    "kind": "product",
+    "language": "fr",
+    "title": "QuickMind Home | QuickMind",
+    "description": "QuickMind associe des activités immersives en réalité virtuelle à un entraînement cognitif pour une routine à domicile avec les aidants. Attention, mémoire, calcul, abstraction et…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/home-product/",
+    "mainCharacters": 1447
+  },
+  {
+    "route": "/fr/",
+    "kind": "home",
+    "language": "fr",
+    "title": "Un entraînement cognitif en VR à domicile. | QuickMind",
+    "description": "QuickMind associe des activités immersives en réalité virtuelle à un entraînement cognitif pour une routine à domicile avec les aidants.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/",
+    "mainCharacters": 2284
+  },
+  {
+    "route": "/fr/pages/answers/clinic-distributor/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Comment demander une démonstration professionnelle ? | QuickMind",
+    "description": "Utilisez le formulaire commun, choisissez établissement ou distributeur et indiquez pays, organisation, quantité et besoins.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/clinic-distributor/",
+    "mainCharacters": 761
+  },
+  {
+    "route": "/fr/pages/answers/evidence/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Quelles études soutiennent le produit ? | QuickMind",
+    "description": "Quatre publications portent sur l’évaluation et le dépistage ; elles ne prouvent pas l’efficacité thérapeutique de l’offre à domicile.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/evidence/",
+    "mainCharacters": 872
+  },
+  {
+    "route": "/fr/pages/answers/first-year-price/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Quel est le coût de la première année ? | QuickMind",
+    "description": "Proposition américaine : 445,30 EUR de location initiale et 1 783,87 EUR d’abonnement, soit 2 229,17 EUR hors taxes et livraison.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/first-year-price/",
+    "mainCharacters": 1048
+  },
+  {
+    "route": "/fr/pages/answers/home-vs-clinic/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Quelle différence entre domicile et clinique ? | QuickMind",
+    "description": "L’offre à domicile proposée vise un utilisateur et exclut l’évaluation clinique ; modules et capacité des établissements sont distincts.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/home-vs-clinic/",
+    "mainCharacters": 757
+  },
+  {
+    "route": "/fr/pages/answers/international-delivery/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Livrez-vous dans mon pays ? | QuickMind",
+    "description": "Demandes possibles pour États-Unis, Europe, Japon, Corée, Asie du Sud-Est, Moyen-Orient et autres destinations ; disponibilité à confirmer.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/international-delivery/",
+    "mainCharacters": 1001
+  },
+  {
+    "route": "/fr/pages/answers/languages/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Quelles langues le logiciel prend-il en charge ? | QuickMind",
+    "description": "Confirmez la langue des activités, rapports et assistance pour la version précise ; la langue du site ne la garantit pas.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/languages/",
+    "mainCharacters": 883
+  },
+  {
+    "route": "/fr/pages/answers/overseas-scenes/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Où a-t-il été présenté à l’étranger ? | QuickMind",
+    "description": "Les photos montrent Singapour, l’Indonésie et des séances communautaires à Hong Kong, sans attester d’efficacité clinique.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/overseas-scenes/",
+    "mainCharacters": 879
+  },
+  {
+    "route": "/fr/pages/answers/paypal-payment/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Comment payer avec PayPal ou une carte ? | QuickMind",
+    "description": "Utilisez le bouton officiel après confirmation du devis. PayPal choisit les moyens disponibles ; pas de synchronisation automatique des commandes. La devise de paiement PayPal est…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/paypal-payment/",
+    "mainCharacters": 993
+  },
+  {
+    "route": "/fr/pages/answers/progress-reports/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Peut-on consulter des rapports ? | QuickMind",
+    "description": "Ils peuvent montrer les activités réalisées et des indicateurs disponibles. Accès des aidants et format sont à confirmer.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/progress-reports/",
+    "mainCharacters": 869
+  },
+  {
+    "route": "/fr/pages/answers/registrations/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Est-il autorisé dans mon pays ? | QuickMind",
+    "description": "Les documents concernent un produit et un marché donnés. Vérifiez le statut actuel du modèle avant l’achat.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/registrations/",
+    "mainCharacters": 877
+  },
+  {
+    "route": "/fr/pages/answers/renewal/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Comment renouveler l’abonnement ? | QuickMind",
+    "description": "1 783,87 EUR par an sont proposés en location continue. Dates et annulation sont à convenir ; le bouton n’instaure pas de renouvellement automatique.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/renewal/",
+    "mainCharacters": 1033
+  },
+  {
+    "route": "/fr/pages/answers/rental-ownership/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Le casque m’appartient-il après paiement ? | QuickMind",
+    "description": "Non, il reste la propriété du fournisseur. Les 445,30 EUR ne sont pas décrits comme une caution remboursable.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/rental-ownership/",
+    "mainCharacters": 1042
+  },
+  {
+    "route": "/fr/pages/answers/returns-cancellation/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Que se passe-t-il en cas d’annulation ou de retour ? | QuickMind",
+    "description": "Remboursement, délais, frais et dommages doivent être convenus par écrit avant paiement ; aucune règle universelle n’est promise.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/returns-cancellation/",
+    "mainCharacters": 999
+  },
+  {
+    "route": "/fr/pages/answers/setup-requirements/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Que faut-il pour l’installation ? | QuickMind",
+    "description": "Connexion, espace sécurisé, appareil associé et compte dépendent du modèle. Demandez le guide d’installation.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/setup-requirements/",
+    "mainCharacters": 892
+  },
+  {
+    "route": "/fr/pages/answers/support-warranty/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Quelle assistance et quelle garantie ? | QuickMind",
+    "description": "Le devis confirme l’installation à distance, les langues, la durée de garantie et la couverture.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/support-warranty/",
+    "mainCharacters": 833
+  },
+  {
+    "route": "/fr/pages/answers/training-activities/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Quelles activités sont proposées ? | QuickMind",
+    "description": "Les documents décrivent attention, mémoire, calcul, abstraction et fonctions exécutives ; la bibliothèque dépend de la version.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/training-activities/",
+    "mainCharacters": 880
+  },
+  {
+    "route": "/fr/pages/answers/training-schedule/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Combien de temps faut-il s’entraîner ? | QuickMind",
+    "description": "Suivez les instructions du produit et les conseils professionnels adaptés ; ce site ne fixe pas de prescription universelle.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/training-schedule/",
+    "mainCharacters": 884
+  },
+  {
+    "route": "/fr/pages/answers/what-is-included/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Quel équipement est inclus ? | QuickMind",
+    "description": "Un casque loué est proposé ; contrôleurs, chargeur et appareils associés sont précisés dans le devis.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/what-is-included/",
+    "mainCharacters": 890
+  },
+  {
+    "route": "/fr/pages/answers/what-is-quickmind/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "Qu’est-ce que QuickMind Home ? | QuickMind",
+    "description": "Une offre proposée de matériel VR loué et d’abonnement annuel à l’entraînement cognitif, selon la configuration du devis.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/what-is-quickmind/",
+    "mainCharacters": 878
+  },
+  {
+    "route": "/fr/pages/answers/who-is-it-for/",
+    "kind": "answer",
+    "language": "fr",
+    "title": "À qui convient le système ? | QuickMind",
+    "description": "Cela dépend du modèle, de l’usage et des besoins. Confirmez l’âge, les précautions et la supervision nécessaire.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/answers/who-is-it-for/",
+    "mainCharacters": 874
+  },
+  {
+    "route": "/fr/pages/clinical-evidence/",
+    "kind": "evidence",
+    "language": "fr",
+    "title": "Données scientifiques | QuickMind",
+    "description": "Les études concernent l’évaluation ou le dépistage ; elles ne démontrent pas l’efficacité thérapeutique de l’offre à domicile. Vérifiez leur lien avec le modèle et l’usage précis.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/clinical-evidence/",
+    "mainCharacters": 3878
+  },
+  {
+    "route": "/fr/pages/compare/",
+    "kind": "compare",
+    "language": "fr",
+    "title": "Comparer les offres | QuickMind",
+    "description": "Entraînement cognitif à domicile pour les utilisateurs et aidants Évaluation et/ou entraînement en établissement ; modules et licences sur devis Vente locale, démonstrations,…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/compare/",
+    "mainCharacters": 1093
+  },
+  {
+    "route": "/fr/pages/contact/",
+    "kind": "contact",
+    "language": "fr",
+    "title": "Contact | QuickMind",
+    "description": "Indiquez pays, langue et quantité pour confirmer disponibilité, livraison et délais. Installation, assistance à distance, garantie et langue du support dépendent du devis.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/contact/",
+    "mainCharacters": 1076
+  },
+  {
+    "route": "/fr/pages/faq/",
+    "kind": "faq",
+    "language": "fr",
+    "title": "FAQ | QuickMind",
+    "description": "Les 20 questions Quel est le coût de la première année ? Comment payer avec PayPal ou une carte ?",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/faq/",
+    "mainCharacters": 4160
+  },
+  {
+    "route": "/fr/pages/insights/",
+    "kind": "insights",
+    "language": "fr",
+    "title": "Analyse des pages | QuickMind",
+    "description": "Il s’agit d’hypothèses de contenu par IA, pas de taux mesurés. Les observations restent dans ce navigateur, sans analyse globale connectée.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/insights/",
+    "mainCharacters": 563
+  },
+  {
+    "route": "/fr/pages/international-scenes/",
+    "kind": "scenes",
+    "language": "fr",
+    "title": "Usages internationaux | QuickMind",
+    "description": "Les photos montrent des démonstrations à Singapour et en Indonésie et des séances communautaires à Hong Kong, sans prouver de résultats cliniques.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/international-scenes/",
+    "mainCharacters": 1344
+  },
+  {
+    "route": "/fr/pages/registrations/",
+    "kind": "registrations",
+    "language": "fr",
+    "title": "Documents réglementaires | QuickMind",
+    "description": "Les enregistrements et documents de conformité concernent des produits et marchés précis, sans constituer une autorisation mondiale. Les originaux conservent leur langue.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pages/registrations/",
+    "mainCharacters": 2937
+  },
+  {
+    "route": "/fr/pricing/",
+    "kind": "pricing",
+    "language": "fr",
+    "title": "Offres et tarifs | QuickMind",
+    "description": "Entraînement cognitif à domicile pour les utilisateurs et aidants Hors taxes et livraison ; conversion du tarif de base en USD. Configuration et total confirmés par devis écrit.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/fr/pricing/",
+    "mainCharacters": 1248
+  },
+  {
+    "route": "/home-product/",
+    "kind": "product",
+    "language": "en",
+    "title": "QuickMind Home VR Training System | Product & Features",
+    "description": "Explore the QuickMind Home VR system, cognitive training activities, setup requirements and proposed equipment rental plan. Request a country-specific quote.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/home-product/",
+    "mainCharacters": 4983
+  },
+  {
+    "route": "/id/home-product/",
+    "kind": "product",
+    "language": "id",
+    "title": "QuickMind Home | QuickMind",
+    "description": "QuickMind menggabungkan aktivitas realitas virtual yang imersif dengan latihan kognitif untuk rutinitas di rumah bersama pendamping. Perhatian, memori, berhitung, abstraksi dan…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/home-product/",
+    "mainCharacters": 1354
+  },
+  {
+    "route": "/id/",
+    "kind": "home",
+    "language": "id",
+    "title": "Latihan kognitif VR di rumah. | QuickMind",
+    "description": "QuickMind menggabungkan aktivitas realitas virtual yang imersif dengan latihan kognitif untuk rutinitas di rumah bersama pendamping.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/",
+    "mainCharacters": 2131
+  },
+  {
+    "route": "/id/pages/answers/clinic-distributor/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Bagaimana klinik atau distributor meminta demo? | QuickMind",
+    "description": "Gunakan formulir bersama, pilih jenis pelanggan dan isi negara, organisasi, jumlah perangkat serta kebutuhan.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/clinic-distributor/",
+    "mainCharacters": 708
+  },
+  {
+    "route": "/id/pages/answers/evidence/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Apa bukti penelitiannya? | QuickMind",
+    "description": "Ada empat publikasi tentang penilaian dan skrining; bukan bukti efektivitas terapi paket rumah.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/evidence/",
+    "mainCharacters": 829
+  },
+  {
+    "route": "/id/pages/answers/first-year-price/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Berapa biaya tahun pertama? | QuickMind",
+    "description": "Usulan AS: sewa awal IDR 8.922.393 ditambah langganan tahunan IDR 35.743.212, total IDR 44.665.605 sebelum pajak dan ongkir.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/first-year-price/",
+    "mainCharacters": 1012
+  },
+  {
+    "route": "/id/pages/answers/home-vs-clinic/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Apa beda paket rumah dan klinik? | QuickMind",
+    "description": "Paket rumah diusulkan untuk satu pengguna tanpa penilaian klinis; modul, kapasitas dan lisensi klinik diatur terpisah.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/home-vs-clinic/",
+    "mainCharacters": 704
+  },
+  {
+    "route": "/id/pages/answers/international-delivery/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Bisakah dikirim ke negara saya? | QuickMind",
+    "description": "Permintaan diterima untuk AS, Eropa, Jepang, Korea, Asia Tenggara, Timur Tengah dan tujuan lain; ketersediaan dikonfirmasi.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/international-delivery/",
+    "mainCharacters": 973
+  },
+  {
+    "route": "/id/pages/answers/languages/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Bahasa apa yang didukung perangkat lunak? | QuickMind",
+    "description": "Konfirmasikan bahasa aktivitas, laporan dan dukungan pada versi tepat. Bahasa situs tidak menjamin bahasa perangkat lunak.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/languages/",
+    "mainCharacters": 851
+  },
+  {
+    "route": "/id/pages/answers/overseas-scenes/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Di mana pernah didemonstrasikan di luar negeri? | QuickMind",
+    "description": "Foto menunjukkan demo di Singapura dan Indonesia serta sesi komunitas di Hong Kong, bukan bukti hasil klinis.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/overseas-scenes/",
+    "mainCharacters": 836
+  },
+  {
+    "route": "/id/pages/answers/paypal-payment/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Bagaimana membayar dengan PayPal atau kartu? | QuickMind",
+    "description": "Gunakan tombol resmi setelah penawaran dikonfirmasi. PayPal menentukan metode; pesanan tidak tersinkron otomatis. Mata uang pembayaran PayPal adalah USD.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/paypal-payment/",
+    "mainCharacters": 965
+  },
+  {
+    "route": "/id/pages/answers/progress-reports/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Apakah ada laporan kemajuan? | QuickMind",
+    "description": "Laporan dapat menampilkan kegiatan dan indikator yang didukung. Akses pendamping serta format perlu dikonfirmasi.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/progress-reports/",
+    "mainCharacters": 858
+  },
+  {
+    "route": "/id/pages/answers/registrations/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Apakah disetujui di negara saya? | QuickMind",
+    "description": "Dokumen berlaku untuk produk dan pasar tertentu. Konfirmasikan status lokal terkini model sebelum membeli.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/registrations/",
+    "mainCharacters": 834
+  },
+  {
+    "route": "/id/pages/answers/renewal/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Bagaimana langganan diperpanjang? | QuickMind",
+    "description": "Diusulkan IDR 35.743.212 per tahun selama sewa berlanjut. Jadwal dan pembatalan perlu disepakati; tombol tidak membuat perpanjangan otomatis.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/renewal/",
+    "mainCharacters": 992
+  },
+  {
+    "route": "/id/pages/answers/rental-ownership/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Apakah headset menjadi milik saya? | QuickMind",
+    "description": "Tidak, perangkat tetap milik pemasok. Biaya IDR 8.922.393 bukan deposit yang dinyatakan dapat dikembalikan.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/rental-ownership/",
+    "mainCharacters": 1002
+  },
+  {
+    "route": "/id/pages/answers/returns-cancellation/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Bagaimana pembatalan atau pengembalian perangkat? | QuickMind",
+    "description": "Dana, batas waktu, ongkir dan kerusakan disepakati tertulis sebelum pembayaran; tidak ada janji kebijakan retur universal.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/returns-cancellation/",
+    "mainCharacters": 971
+  },
+  {
+    "route": "/id/pages/answers/setup-requirements/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Apa kebutuhan pemasangannya? | QuickMind",
+    "description": "Internet, ruang aman, perangkat pendamping dan akun tergantung model. Minta panduan pemasangan.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/setup-requirements/",
+    "mainCharacters": 860
+  },
+  {
+    "route": "/id/pages/answers/support-warranty/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Apa dukungan pemasangan dan garansinya? | QuickMind",
+    "description": "Penawaran mengonfirmasi pemasangan jarak jauh, bahasa, masa garansi dan cakupan layanan.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/support-warranty/",
+    "mainCharacters": 793
+  },
+  {
+    "route": "/id/pages/answers/training-activities/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Latihan apa yang tersedia? | QuickMind",
+    "description": "Materi menjelaskan perhatian, memori, berhitung, abstraksi dan fungsi eksekutif; kegiatan tergantung versi perangkat lunak.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/training-activities/",
+    "mainCharacters": 869
+  },
+  {
+    "route": "/id/pages/answers/training-schedule/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Berapa lama harus berlatih? | QuickMind",
+    "description": "Ikuti petunjuk produk dan panduan profesional yang sesuai; situs tidak menetapkan resep latihan universal.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/training-schedule/",
+    "mainCharacters": 829
+  },
+  {
+    "route": "/id/pages/answers/what-is-included/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Perangkat apa yang termasuk? | QuickMind",
+    "description": "Satu headset sewaan diusulkan; pengontrol, pengisi daya dan perangkat lain dirinci dalam penawaran.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/what-is-included/",
+    "mainCharacters": 858
+  },
+  {
+    "route": "/id/pages/answers/what-is-quickmind/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Apa itu QuickMind Home? | QuickMind",
+    "description": "Usulan paket perangkat VR sewaan dengan langganan latihan kognitif tahunan; konfigurasi ditetapkan dalam penawaran.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/what-is-quickmind/",
+    "mainCharacters": 867
+  },
+  {
+    "route": "/id/pages/answers/who-is-it-for/",
+    "kind": "answer",
+    "language": "id",
+    "title": "Siapa yang cocok menggunakannya? | QuickMind",
+    "description": "Tergantung model, tujuan dan kebutuhan. Konfirmasikan usia, tindakan pencegahan dan kebutuhan pengawasan profesional.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/answers/who-is-it-for/",
+    "mainCharacters": 863
+  },
+  {
+    "route": "/id/pages/clinical-evidence/",
+    "kind": "evidence",
+    "language": "id",
+    "title": "Bukti ilmiah | QuickMind",
+    "description": "Studi membahas penilaian atau skrining, bukan bukti efektivitas terapi paket rumah. Periksa kaitannya dengan model dan penggunaan yang tepat.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/clinical-evidence/",
+    "mainCharacters": 3681
+  },
+  {
+    "route": "/id/pages/compare/",
+    "kind": "compare",
+    "language": "id",
+    "title": "Bandingkan paket | QuickMind",
+    "description": "Latihan kognitif di rumah untuk pengguna dan pendamping Penilaian dan/atau latihan institusi; modul dan lisensi ditawarkan terpisah Penjualan lokal, demo, pelatihan dan ketentuan…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/compare/",
+    "mainCharacters": 1059
+  },
+  {
+    "route": "/id/pages/contact/",
+    "kind": "contact",
+    "language": "id",
+    "title": "Kontak | QuickMind",
+    "description": "Sebutkan negara, bahasa dan jumlah perangkat untuk memastikan ketersediaan, pengiriman dan estimasi waktu. Panduan pemasangan, dukungan jarak jauh, garansi dan bahasa layanan sesuai…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/contact/",
+    "mainCharacters": 996
+  },
+  {
+    "route": "/id/pages/faq/",
+    "kind": "faq",
+    "language": "id",
+    "title": "FAQ | QuickMind",
+    "description": "Semua 20 pertanyaan Berapa biaya tahun pertama? Bagaimana membayar dengan PayPal atau kartu?",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/faq/",
+    "mainCharacters": 3819
+  },
+  {
+    "route": "/id/pages/insights/",
+    "kind": "insights",
+    "language": "id",
+    "title": "Analisis halaman | QuickMind",
+    "description": "Ini hipotesis konten AI, bukan tingkat retensi terukur. Catatan hanya disimpan di browser ini, tanpa analitik seluruh pengunjung.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/insights/",
+    "mainCharacters": 529
+  },
+  {
+    "route": "/id/pages/international-scenes/",
+    "kind": "scenes",
+    "language": "id",
+    "title": "Pengalaman internasional | QuickMind",
+    "description": "Foto menunjukkan demonstrasi di Singapura dan Indonesia serta sesi komunitas di Hong Kong, bukan bukti hasil klinis.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/international-scenes/",
+    "mainCharacters": 1155
+  },
+  {
+    "route": "/id/pages/registrations/",
+    "kind": "registrations",
+    "language": "id",
+    "title": "Dokumen registrasi | QuickMind",
+    "description": "Registrasi dan dokumen kesesuaian berlaku untuk produk dan pasar tertentu, bukan persetujuan global. Dokumen asli tetap dalam bahasa asalnya.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pages/registrations/",
+    "mainCharacters": 2599
+  },
+  {
+    "route": "/id/pricing/",
+    "kind": "pricing",
+    "language": "id",
+    "title": "Paket dan harga | QuickMind",
+    "description": "Latihan kognitif di rumah untuk pengguna dan pendamping Belum termasuk pajak dan ongkir; konversi dari harga dasar USD. Konfigurasi dan total dikonfirmasi tertulis.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/id/pricing/",
+    "mainCharacters": 1216
+  },
+  {
+    "route": "/",
+    "kind": "home",
+    "language": "en",
+    "title": "QuickMind VR Cognitive Training | YIWEI Medical",
+    "description": "Explore QuickMind VR cognitive training for home users and caregivers. Compare rental plans, review product research and request an international quote.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/",
+    "mainCharacters": 2195
+  },
+  {
+    "route": "/ja/home-product/",
+    "kind": "product",
+    "language": "ja",
+    "title": "QuickMind Home | QuickMind",
+    "description": "QuickMind は没入型 VR アクティビティと認知トレーニングを組み合わせ、ご本人と介助者の在宅での取り組みを支えます。 注意、記憶、計算、抽象的思考、実行機能",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/home-product/",
+    "mainCharacters": 685
+  },
+  {
+    "route": "/ja/",
+    "kind": "home",
+    "language": "ja",
+    "title": "認知トレーニングを、ご自宅の習慣に。 | QuickMind",
+    "description": "QuickMind は没入型 VR アクティビティと認知トレーニングを組み合わせ、ご本人と介助者の在宅での取り組みを支えます。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/",
+    "mainCharacters": 969
+  },
+  {
+    "route": "/ja/pages/answers/clinic-distributor/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "施設や代理店はデモを依頼できますか？ | QuickMind",
+    "description": "共通フォームで区分を選び、国、組織、台数、要望をご記入ください。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/clinic-distributor/",
+    "mainCharacters": 325
+  },
+  {
+    "route": "/ja/pages/answers/evidence/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "どのような研究がありますか？ | QuickMind",
+    "description": "評価・スクリーニング関連の論文 4 件を掲載しています。家庭向けプランの治療効果の証明ではありません。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/evidence/",
+    "mainCharacters": 413
+  },
+  {
+    "route": "/ja/pages/answers/first-year-price/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "初年度の料金はいくらですか？ | QuickMind",
+    "description": "米国向け提案は初回レンタル JPY 78,969 と年額 JPY 316,351、合計 JPY 395,320 です。税・送料は別です。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/first-year-price/",
+    "mainCharacters": 546
+  },
+  {
+    "route": "/ja/pages/answers/home-vs-clinic/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "家庭向けと施設向けの違いは？ | QuickMind",
+    "description": "家庭向けは 1 名を想定し、臨床評価を含みません。施設の機能・人数・ライセンスは別途設定します。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/home-vs-clinic/",
+    "mainCharacters": 321
+  },
+  {
+    "route": "/ja/pages/answers/international-delivery/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "自分の国に配送できますか？ | QuickMind",
+    "description": "米国、欧州、日本、韓国、東南アジア、中東などの問い合わせを受け付け、配送と販売条件を個別確認します。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/international-delivery/",
+    "mainCharacters": 461
+  },
+  {
+    "route": "/ja/pages/answers/languages/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "ソフトウェアの対応言語は？ | QuickMind",
+    "description": "活動、レポート、支援の言語は具体的な版で確認してください。サイトの言語とソフトウェアの言語は別です。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/languages/",
+    "mainCharacters": 417
+  },
+  {
+    "route": "/ja/pages/answers/overseas-scenes/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "海外ではどこで紹介されていますか？ | QuickMind",
+    "description": "シンガポール、インドネシアのデモと香港の地域利用写真を掲載しています。臨床効果を示す写真ではありません。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/overseas-scenes/",
+    "mainCharacters": 420
+  },
+  {
+    "route": "/ja/pages/answers/paypal-payment/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "PayPal やカードで支払えますか？ | QuickMind",
+    "description": "見積もり確定後に公式ボタンを利用します。方法は PayPal が決定し、サイトの注文へ自動連携しません。 PayPal の決済通貨は USD（米ドル）です。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/paypal-payment/",
+    "mainCharacters": 453
+  },
+  {
+    "route": "/ja/pages/answers/progress-reports/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "進捗レポートは見られますか？ | QuickMind",
+    "description": "実施状況や対応する指標を表示できる場合があります。介助者の権限と形式は仕様を確認してください。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/progress-reports/",
+    "mainCharacters": 443
+  },
+  {
+    "route": "/ja/pages/answers/registrations/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "自分の国で承認されていますか？ | QuickMind",
+    "description": "資料は特定の製品と地域に対応します。購入前に具体的モデルの現地での最新状況を確認してください。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/registrations/",
+    "mainCharacters": 418
+  },
+  {
+    "route": "/ja/pages/answers/renewal/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "年間契約はどう更新されますか？ | QuickMind",
+    "description": "継続レンタルで年額 JPY 316,351 を提案しています。日程と解約条件は要確認で、自動更新はこのボタンで設定されません。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/renewal/",
+    "mainCharacters": 532
+  },
+  {
+    "route": "/ja/pages/answers/rental-ownership/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "レンタル料金を払うと機器は自分のものですか？ | QuickMind",
+    "description": "いいえ、所有権は提供者にあります。JPY 78,969 は返金可能な保証金として説明していません。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/rental-ownership/",
+    "mainCharacters": 542
+  },
+  {
+    "route": "/ja/pages/answers/returns-cancellation/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "解約や機器返却時はどうなりますか？ | QuickMind",
+    "description": "返金、期限、送料、破損の扱いは支払い前に書面で取り決めてください。一律の返却条件は約束していません。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/returns-cancellation/",
+    "mainCharacters": 459
+  },
+  {
+    "route": "/ja/pages/answers/setup-requirements/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "設定に必要なものは？ | QuickMind",
+    "description": "ネット接続、安全な場所、関連機器、アカウントの条件はモデルごとに確認し、設定ガイドをご依頼ください。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/setup-requirements/",
+    "mainCharacters": 426
+  },
+  {
+    "route": "/ja/pages/answers/support-warranty/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "設定支援や保証はありますか？ | QuickMind",
+    "description": "遠隔設定支援、対応言語、保証期間、対象サービスを見積もりで確認します。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/support-warranty/",
+    "mainCharacters": 354
+  },
+  {
+    "route": "/ja/pages/answers/training-activities/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "どのようなトレーニングがありますか？ | QuickMind",
+    "description": "資料では注意、記憶、計算、抽象的思考、実行機能を扱います。実際の活動はソフトウェアの版によります。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/training-activities/",
+    "mainCharacters": 452
+  },
+  {
+    "route": "/ja/pages/answers/training-schedule/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "毎日どれくらい使うべきですか？ | QuickMind",
+    "description": "製品の説明と適切な専門家の助言に従ってください。サイトは共通の訓練処方を提供しません。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/training-schedule/",
+    "mainCharacters": 420
+  },
+  {
+    "route": "/ja/pages/answers/what-is-included/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "機器・付属品は何が含まれますか？ | QuickMind",
+    "description": "レンタルのヘッドセット 1 台を提案しています。コントローラー、充電器、関連機器は見積もりに記載します。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/what-is-included/",
+    "mainCharacters": 424
+  },
+  {
+    "route": "/ja/pages/answers/what-is-quickmind/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "QuickMind Home とは何ですか？ | QuickMind",
+    "description": "VR 機器のレンタルと年間認知トレーニングを組み合わせた提案プランです。仕様は見積もりで確認します。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/what-is-quickmind/",
+    "mainCharacters": 450
+  },
+  {
+    "route": "/ja/pages/answers/who-is-it-for/",
+    "kind": "answer",
+    "language": "ja",
+    "title": "どのような人に適していますか？ | QuickMind",
+    "description": "モデル、用途、利用者の状況によります。対象年齢、注意事項、専門家の支援要否を確認してください。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/answers/who-is-it-for/",
+    "mainCharacters": 446
+  },
+  {
+    "route": "/ja/pages/clinical-evidence/",
+    "kind": "evidence",
+    "language": "ja",
+    "title": "科学的根拠 | QuickMind",
+    "description": "掲載研究は評価やスクリーニングに関するもので、家庭向けプランの治療効果を証明するものではありません。対象モデルと用途をご確認ください。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/clinical-evidence/",
+    "mainCharacters": 3051
+  },
+  {
+    "route": "/ja/pages/compare/",
+    "kind": "compare",
+    "language": "ja",
+    "title": "プラン比較 | QuickMind",
+    "description": "本人と介助者向けの在宅認知トレーニング 施設向け評価・トレーニング。モジュールとライセンスは個別見積もり 現地販売、デモ、研修、取引条件を個別に協議",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/compare/",
+    "mainCharacters": 528
+  },
+  {
+    "route": "/ja/pages/contact/",
+    "kind": "contact",
+    "language": "ja",
+    "title": "お問い合わせ | QuickMind",
+    "description": "配送先の国、希望言語、台数をお知らせください。販売条件、在庫、送料、納期を確認します。 設定支援、遠隔サポート、保証期間、対応言語は見積もりによります。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/contact/",
+    "mainCharacters": 545
+  },
+  {
+    "route": "/ja/pages/faq/",
+    "kind": "faq",
+    "language": "ja",
+    "title": "よくある質問 | QuickMind",
+    "description": "全 20 件の質問 初年度の料金はいくらですか？ PayPal やカードで支払えますか？",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/faq/",
+    "mainCharacters": 1802
+  },
+  {
+    "route": "/ja/pages/insights/",
+    "kind": "insights",
+    "language": "ja",
+    "title": "ページ分析 | QuickMind",
+    "description": "AI による内容評価の仮説で、実測の滞在率ではありません。記録はこのブラウザー内のみで、全訪問者の分析は未接続です。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/insights/",
+    "mainCharacters": 259
+  },
+  {
+    "route": "/ja/pages/international-scenes/",
+    "kind": "scenes",
+    "language": "ja",
+    "title": "海外での体験・利用 | QuickMind",
+    "description": "写真はシンガポールとインドネシアでのデモ、香港の地域での利用を示しており、臨床効果を証明しません。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/international-scenes/",
+    "mainCharacters": 566
+  },
+  {
+    "route": "/ja/pages/registrations/",
+    "kind": "registrations",
+    "language": "ja",
+    "title": "登録関連資料 | QuickMind",
+    "description": "登録・適合性資料は特定の製品と市場に対応し、世界共通の承認を示すものではありません。原本は元の言語で掲載します。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pages/registrations/",
+    "mainCharacters": 1632
+  },
+  {
+    "route": "/ja/pricing/",
+    "kind": "pricing",
+    "language": "ja",
+    "title": "プラン・料金 | QuickMind",
+    "description": "本人と介助者向けの在宅認知トレーニング 税・送料別。USD 基準価格から換算しています。最終仕様と金額は書面見積もりで確定します。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ja/pricing/",
+    "mainCharacters": 622
+  },
+  {
+    "route": "/ko/home-product/",
+    "kind": "product",
+    "language": "ko",
+    "title": "QuickMind Home | QuickMind",
+    "description": "QuickMind는 몰입형 VR 활동과 인지 훈련을 결합하여 사용자와 보호자의 가정 내 훈련 일상을 지원합니다. 주의력, 기억력, 계산, 추상적 사고 및 실행 기능",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/home-product/",
+    "mainCharacters": 736
+  },
+  {
+    "route": "/ko/",
+    "kind": "home",
+    "language": "ko",
+    "title": "집에서 이어가는 VR 인지 훈련. | QuickMind",
+    "description": "QuickMind는 몰입형 VR 활동과 인지 훈련을 결합하여 사용자와 보호자의 가정 내 훈련 일상을 지원합니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/",
+    "mainCharacters": 1107
+  },
+  {
+    "route": "/ko/pages/answers/clinic-distributor/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "기관이나 유통 파트너는 시연을 요청할 수 있나요? | QuickMind",
+    "description": "공통 양식에서 고객 유형을 선택하고 국가, 기관, 수량과 요구 사항을 입력하세요.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/clinic-distributor/",
+    "mainCharacters": 387
+  },
+  {
+    "route": "/ko/pages/answers/evidence/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "어떤 연구 근거가 있나요? | QuickMind",
+    "description": "평가 및 선별검사 관련 논문 4편이 있으며 가정용 플랜의 치료 효과를 입증하지 않습니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/evidence/",
+    "mainCharacters": 420
+  },
+  {
+    "route": "/ko/pages/answers/first-year-price/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "첫해 비용은 얼마인가요? | QuickMind",
+    "description": "미국 제안은 최초 대여 KRW 669,402와 연간 구독 KRW 2,681,632, 합계 KRW 3,351,034이며 세금과 배송비는 별도입니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/first-year-price/",
+    "mainCharacters": 585
+  },
+  {
+    "route": "/ko/pages/answers/home-vs-clinic/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "가정용과 기관용의 차이는 무엇인가요? | QuickMind",
+    "description": "가정용은 1명을 대상으로 하며 임상 평가를 포함하지 않습니다. 기관의 모듈, 용량과 라이선스는 별도입니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/home-vs-clinic/",
+    "mainCharacters": 383
+  },
+  {
+    "route": "/ko/pages/answers/international-delivery/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "제 국가로 배송할 수 있나요? | QuickMind",
+    "description": "미국, 유럽, 일본, 한국, 동남아시아, 중동 등 문의를 받으며 판매와 배송 가능 여부는 개별 확인합니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/international-delivery/",
+    "mainCharacters": 523
+  },
+  {
+    "route": "/ko/pages/answers/languages/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "소프트웨어는 어떤 언어를 지원하나요? | QuickMind",
+    "description": "활동, 보고서와 지원 언어는 정확한 버전에서 확인하세요. 웹사이트 언어가 소프트웨어 언어를 보장하지 않습니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/languages/",
+    "mainCharacters": 457
+  },
+  {
+    "route": "/ko/pages/answers/overseas-scenes/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "해외에서 어디에 소개되었나요? | QuickMind",
+    "description": "싱가포르, 인도네시아 시연과 홍콩 지역사회 사용 사진이 있으며 임상 효과를 증명하지 않습니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/overseas-scenes/",
+    "mainCharacters": 427
+  },
+  {
+    "route": "/ko/pages/answers/paypal-payment/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "PayPal이나 카드로 어떻게 결제하나요? | QuickMind",
+    "description": "견적 확정 후 공식 버튼을 이용하세요. 방법은 PayPal이 결정하며 주문은 자동 연동되지 않습니다. PayPal 실제 결제 통화는 USD(미국 달러)입니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/paypal-payment/",
+    "mainCharacters": 515
+  },
+  {
+    "route": "/ko/pages/answers/progress-reports/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "진행 보고서를 볼 수 있나요? | QuickMind",
+    "description": "수행 기록과 지원되는 지표를 보여 줄 수 있습니다. 보호자 접근 권한과 보고서 형식은 확인이 필요합니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/progress-reports/",
+    "mainCharacters": 464
+  },
+  {
+    "route": "/ko/pages/answers/registrations/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "우리나라에서 승인되었나요? | QuickMind",
+    "description": "자료는 특정 제품과 지역에 해당합니다. 구매 전에 정확한 모델의 현재 현지 상태를 확인하세요.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/registrations/",
+    "mainCharacters": 425
+  },
+  {
+    "route": "/ko/pages/answers/renewal/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "연간 구독은 어떻게 갱신되나요? | QuickMind",
+    "description": "연속 대여 시 연 KRW 2,681,632를 제안합니다. 날짜와 해지 조건은 확인해야 하며 버튼이 자동 갱신을 설정하지 않습니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/renewal/",
+    "mainCharacters": 568
+  },
+  {
+    "route": "/ko/pages/answers/rental-ownership/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "대여료를 내면 기기가 제 소유인가요? | QuickMind",
+    "description": "아니요, 공급자가 소유권을 유지합니다. KRW 669,402는 환급 가능한 보증금으로 설명하지 않습니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/rental-ownership/",
+    "mainCharacters": 577
+  },
+  {
+    "route": "/ko/pages/answers/returns-cancellation/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "취소하거나 기기를 반납하면 어떻게 되나요? | QuickMind",
+    "description": "환불, 기한, 배송비와 파손 처리 조건을 결제 전에 서면 합의하세요. 공통 반납 정책을 약속하지 않습니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/returns-cancellation/",
+    "mainCharacters": 521
+  },
+  {
+    "route": "/ko/pages/answers/setup-requirements/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "설치에 무엇이 필요한가요? | QuickMind",
+    "description": "인터넷, 안전한 공간, 추가 기기와 계정 조건은 모델에 따라 확인하고 설치 안내를 요청하세요.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/setup-requirements/",
+    "mainCharacters": 466
+  },
+  {
+    "route": "/ko/pages/answers/support-warranty/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "설치 지원과 보증은 무엇인가요? | QuickMind",
+    "description": "원격 설치, 언어, 보증 기간과 서비스 범위는 견적에서 확인합니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/support-warranty/",
+    "mainCharacters": 409
+  },
+  {
+    "route": "/ko/pages/answers/training-activities/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "어떤 훈련 활동이 있나요? | QuickMind",
+    "description": "자료는 주의력, 기억력, 계산, 추상적 사고와 실행 기능을 설명하며 실제 활동은 소프트웨어 버전에 따릅니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/training-activities/",
+    "mainCharacters": 467
+  },
+  {
+    "route": "/ko/pages/answers/training-schedule/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "매일 얼마나 훈련해야 하나요? | QuickMind",
+    "description": "제품 설명과 적절한 전문가 지침을 따르세요. 웹사이트는 공통 훈련 처방을 제공하지 않습니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/training-schedule/",
+    "mainCharacters": 451
+  },
+  {
+    "route": "/ko/pages/answers/what-is-included/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "어떤 기기와 구성품이 포함되나요? | QuickMind",
+    "description": "대여 헤드셋 1대를 제안하며 컨트롤러, 충전기와 추가 기기는 견적에 명시합니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/what-is-included/",
+    "mainCharacters": 464
+  },
+  {
+    "route": "/ko/pages/answers/what-is-quickmind/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "QuickMind Home은 무엇인가요? | QuickMind",
+    "description": "VR 기기 대여와 연간 인지 훈련 구독을 결합한 제안 플랜이며 구성은 견적에서 확정합니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/what-is-quickmind/",
+    "mainCharacters": 465
+  },
+  {
+    "route": "/ko/pages/answers/who-is-it-for/",
+    "kind": "answer",
+    "language": "ko",
+    "title": "누구에게 적합한가요? | QuickMind",
+    "description": "모델, 용도와 사용자 요구에 따라 다릅니다. 연령, 주의 사항과 전문적인 감독 필요 여부를 확인하세요.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/answers/who-is-it-for/",
+    "mainCharacters": 461
+  },
+  {
+    "route": "/ko/pages/clinical-evidence/",
+    "kind": "evidence",
+    "language": "ko",
+    "title": "과학적 근거 | QuickMind",
+    "description": "연구는 평가 또는 선별검사에 관한 것으로 가정용 플랜의 치료 효과를 증명하지 않습니다. 정확한 모델과 용도와의 관련성을 확인하세요.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/clinical-evidence/",
+    "mainCharacters": 3098
+  },
+  {
+    "route": "/ko/pages/compare/",
+    "kind": "compare",
+    "language": "ko",
+    "title": "플랜 비교 | QuickMind",
+    "description": "사용자와 보호자를 위한 가정 내 인지 훈련 기관 평가 및/또는 훈련; 모듈과 라이선스는 별도 견적 현지 판매, 시연, 교육 및 거래 조건은 개별 협의",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/compare/",
+    "mainCharacters": 574
+  },
+  {
+    "route": "/ko/pages/contact/",
+    "kind": "contact",
+    "language": "ko",
+    "title": "문의 | QuickMind",
+    "description": "배송 국가, 필요한 언어, 수량을 알려 주세요. 판매 가능 여부, 재고, 배송비 및 납기를 확인합니다. 설치 안내, 원격 지원, 보증 기간과 지원 언어는 견적에 따라 정해집니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/contact/",
+    "mainCharacters": 573
+  },
+  {
+    "route": "/ko/pages/faq/",
+    "kind": "faq",
+    "language": "ko",
+    "title": "자주 묻는 질문 | QuickMind",
+    "description": "전체 20개 질문 첫해 비용은 얼마인가요? PayPal이나 카드로 어떻게 결제하나요?",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/faq/",
+    "mainCharacters": 1947
+  },
+  {
+    "route": "/ko/pages/insights/",
+    "kind": "insights",
+    "language": "ko",
+    "title": "페이지 분석 | QuickMind",
+    "description": "AI 콘텐츠 평가 가설이며 실제 체류율이 아닙니다. 기록은 현재 브라우저에만 저장되고 전체 방문자 분석은 연결되지 않았습니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/insights/",
+    "mainCharacters": 286
+  },
+  {
+    "route": "/ko/pages/international-scenes/",
+    "kind": "scenes",
+    "language": "ko",
+    "title": "해외 체험 및 사용 | QuickMind",
+    "description": "사진은 싱가포르와 인도네시아 시연 및 홍콩 지역사회 사용 장면이며 임상 효과를 입증하지 않습니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/international-scenes/",
+    "mainCharacters": 610
+  },
+  {
+    "route": "/ko/pages/registrations/",
+    "kind": "registrations",
+    "language": "ko",
+    "title": "등록 관련 자료 | QuickMind",
+    "description": "등록 및 적합성 자료는 특정 제품과 시장에 해당하며 전 세계 승인을 의미하지 않습니다. 원본은 기존 언어로 제공됩니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pages/registrations/",
+    "mainCharacters": 1741
+  },
+  {
+    "route": "/ko/pricing/",
+    "kind": "pricing",
+    "language": "ko",
+    "title": "플랜 및 가격 | QuickMind",
+    "description": "사용자와 보호자를 위한 가정 내 인지 훈련 세금 및 배송비 별도이며 USD 기본 가격을 환산했습니다. 최종 구성과 금액은 서면 견적으로 확정합니다.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/ko/pricing/",
+    "mainCharacters": 686
+  },
+  {
+    "route": "/pages/answers/clinic-distributor/",
+    "kind": "answer",
+    "language": "en",
+    "title": "Can clinics or distributors request a demonstration and commercial offer? | QuickMind",
+    "description": "Yes. Use the same enquiry form and select Clinic / care organization or Distributor / commercial partner. Include your country, organization, device quantity and required workflow.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/clinic-distributor/",
+    "mainCharacters": 1032
+  },
+  {
+    "route": "/pages/answers/evidence/",
+    "kind": "answer",
+    "language": "en",
+    "title": "What research supports the product? | QuickMind",
+    "description": "The evidence page summarizes four supplied papers on VR cognitive assessment and related screening methods, with study populations and limitations. These are not proof of the…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/evidence/",
+    "mainCharacters": 1028
+  },
+  {
+    "route": "/pages/answers/first-year-price/",
+    "kind": "answer",
+    "language": "en",
+    "title": "How much does the first year cost? | QuickMind",
+    "description": "The proposed US offer is $499 for the initial equipment rental plus $1,999 for one year of subscription: $2,498 before taxes and shipping. This remains a proposed price pending a…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/first-year-price/",
+    "mainCharacters": 1031
+  },
+  {
+    "route": "/pages/answers/home-vs-clinic/",
+    "kind": "answer",
+    "language": "en",
+    "title": "How does the Home Plan differ from a clinic configuration? | QuickMind",
+    "description": "The proposed Home Plan is for one named trainee and home cognitive training. Clinic configurations can include assessment and/or training modules, with hardware and user capacity…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/home-vs-clinic/",
+    "mainCharacters": 1012
+  },
+  {
+    "route": "/pages/answers/international-delivery/",
+    "kind": "answer",
+    "language": "en",
+    "title": "Can you ship to my country? | QuickMind",
+    "description": "The team accepts enquiries for the US, Europe, Japan, South Korea, Southeast Asia, the Middle East and other destinations. Product eligibility, stock and shipping must be confirmed…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/international-delivery/",
+    "mainCharacters": 1030
+  },
+  {
+    "route": "/pages/answers/languages/",
+    "kind": "answer",
+    "language": "en",
+    "title": "Which languages does QuickMind support? | QuickMind",
+    "description": "Language availability is confirmed for the exact product version. An English website and a country selector do not guarantee that the training software is available in every local…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/languages/",
+    "mainCharacters": 1005
+  },
+  {
+    "route": "/pages/answers/overseas-scenes/",
+    "kind": "answer",
+    "language": "en",
+    "title": "Where has the system been demonstrated or used overseas? | QuickMind",
+    "description": "The site includes company-supplied photographs of demonstrations in Singapore and Indonesia and community sessions in Hong Kong. These document the settings shown, rather than…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/overseas-scenes/",
+    "mainCharacters": 1006
+  },
+  {
+    "route": "/pages/answers/paypal-payment/",
+    "kind": "answer",
+    "language": "en",
+    "title": "How can I pay with PayPal or a bank card? | QuickMind",
+    "description": "The payment area loads the supplied official PayPal Hosted Buttons component. PayPal determines which payment methods are available for the buyer and transaction.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/paypal-payment/",
+    "mainCharacters": 1010
+  },
+  {
+    "route": "/pages/answers/progress-reports/",
+    "kind": "answer",
+    "language": "en",
+    "title": "Can users and caregivers see progress reports? | QuickMind",
+    "description": "Available reporting may show training completion and supported performance measures. Caregiver access and the exact report format must be confirmed for your configuration.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/progress-reports/",
+    "mainCharacters": 986
+  },
+  {
+    "route": "/pages/answers/registrations/",
+    "kind": "answer",
+    "language": "en",
+    "title": "Is QuickMind approved or registered in my country? | QuickMind",
+    "description": "Registration, listing, notification and conformity records refer to named products and jurisdictions. Their presence does not establish worldwide delivery eligibility or apply…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/registrations/",
+    "mainCharacters": 1079
+  },
+  {
+    "route": "/pages/answers/renewal/",
+    "kind": "answer",
+    "language": "en",
+    "title": "How does the annual subscription renew? | QuickMind",
+    "description": "The proposed renewal is $1,999 per year without another initial equipment charge during uninterrupted rental. Billing dates, cancellation notice and renewal arrangements must be…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/renewal/",
+    "mainCharacters": 980
+  },
+  {
+    "route": "/pages/answers/rental-ownership/",
+    "kind": "answer",
+    "language": "en",
+    "title": "Do I own the headset after paying the rental charge? | QuickMind",
+    "description": "No. Under the proposed rental model, the equipment remains the supplier’s property. The $499 charge is not represented as a refundable deposit.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/rental-ownership/",
+    "mainCharacters": 916
+  },
+  {
+    "route": "/pages/answers/returns-cancellation/",
+    "kind": "answer",
+    "language": "en",
+    "title": "What happens if I cancel or return the equipment? | QuickMind",
+    "description": "The rental and refund policy is not finalized on this preview. No full refund, free return shipping or cancellation entitlement is promised beyond the terms ultimately agreed for…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/returns-cancellation/",
+    "mainCharacters": 1011
+  },
+  {
+    "route": "/pages/answers/setup-requirements/",
+    "kind": "answer",
+    "language": "en",
+    "title": "What do I need to set up the system? | QuickMind",
+    "description": "Internet access, safe space, companion-device requirements and supported account configuration depend on the hardware and software supplied. These requirements should be confirmed…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/setup-requirements/",
+    "mainCharacters": 1018
+  },
+  {
+    "route": "/pages/answers/support-warranty/",
+    "kind": "answer",
+    "language": "en",
+    "title": "What setup support and warranty are provided? | QuickMind",
+    "description": "Setup instructions and remote onboarding are proposed. Warranty duration, service coverage, support language and response times depend on the confirmed offer.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/support-warranty/",
+    "mainCharacters": 877
+  },
+  {
+    "route": "/pages/answers/training-activities/",
+    "kind": "answer",
+    "language": "en",
+    "title": "What training activities are available? | QuickMind",
+    "description": "The current materials describe cognitive domains including attention, memory, calculation, abstraction and executive function. The specific activity library depends on the quoted…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/training-activities/",
+    "mainCharacters": 1046
+  },
+  {
+    "route": "/pages/answers/training-schedule/",
+    "kind": "answer",
+    "language": "en",
+    "title": "How long and how often should I train? | QuickMind",
+    "description": "This website does not set a universal training prescription. Session duration and frequency should follow the instructions for the supplied product and any agreed professional guidance.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/training-schedule/",
+    "mainCharacters": 1016
+  },
+  {
+    "route": "/pages/answers/what-is-included/",
+    "kind": "answer",
+    "language": "en",
+    "title": "What equipment and accessories are included? | QuickMind",
+    "description": "The proposed offer includes one rented QuickMind headset. Exact model, controllers, charger, companion device and accessories will be itemized in your written offer.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/what-is-included/",
+    "mainCharacters": 971
+  },
+  {
+    "route": "/pages/answers/what-is-quickmind/",
+    "kind": "answer",
+    "language": "en",
+    "title": "What is QuickMind Home? | QuickMind",
+    "description": "QuickMind Home is a proposed VR cognitive training offer for home users and caregivers. It combines rented equipment with an annual training subscription. Exact hardware, activities…",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/what-is-quickmind/",
+    "mainCharacters": 1065
+  },
+  {
+    "route": "/pages/answers/who-is-it-for/",
+    "kind": "answer",
+    "language": "en",
+    "title": "Who is the home system suitable for? | QuickMind",
+    "description": "Suitability depends on the exact product model, intended use and user needs. Age limits, precautions and any professional supervision must be confirmed before an offer is accepted.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/answers/who-is-it-for/",
+    "mainCharacters": 1039
+  },
+  {
+    "route": "/pages/clinical-evidence/",
+    "kind": "evidence",
+    "language": "en",
+    "title": "QuickMind Clinical Research | VR Cognitive Assessment",
+    "description": "Review four supplied publications on VR cognitive assessment and related screening methods, including study populations, findings and applicability limits.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/clinical-evidence/",
+    "mainCharacters": 3747
+  },
+  {
+    "route": "/pages/commerce-design/",
+    "kind": "review",
+    "language": "en",
+    "title": "QuickMind 折扣 · 代理商 · Invoice 设计预览",
+    "description": "QuickMind九折、八折、五折价格计算、代理商归属与月度佣金结算、付款后Invoice自动发送的可操作设计预览。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/commerce-design/",
+    "mainCharacters": 1308
+  },
+  {
+    "route": "/pages/compare/",
+    "kind": "compare",
+    "language": "en",
+    "title": "QuickMind Home vs Clinic Plans | Compare Configurations",
+    "description": "Compare QuickMind home training, clinic configurations and distributor enquiries. Review equipment, assessment scope, proposed pricing and onboarding.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/compare/",
+    "mainCharacters": 2281
+  },
+  {
+    "route": "/pages/contact/",
+    "kind": "contact",
+    "language": "en",
+    "title": "Contact QuickMind | International Quotes & Clinic Demos",
+    "description": "Contact YIWEI USA INC for QuickMind home plans, clinic configurations or distribution enquiries. Request a quote for your destination and device requirements.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/contact/",
+    "mainCharacters": 1612
+  },
+  {
+    "route": "/pages/design-review/",
+    "kind": "review",
+    "language": "en",
+    "title": "改版对比 | QuickMind Store1",
+    "description": "Withings 独立站分析与 QuickMind Store1 改版对比，包含设计变化、决策路径和验证建议。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/design-review/",
+    "mainCharacters": 2030
+  },
+  {
+    "route": "/pages/faq/",
+    "kind": "faq",
+    "language": "en",
+    "title": "QuickMind FAQ | 20 Questions Before You Order",
+    "description": "Answers to 20 common QuickMind questions about VR training, home and clinic configurations, rental pricing, shipping, PayPal payments and support.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/faq/",
+    "mainCharacters": 5787
+  },
+  {
+    "route": "/pages/insights/",
+    "kind": "insights",
+    "language": "en",
+    "title": "QuickMind Page Engagement Review | AI & Local Observations",
+    "description": "Review AI hypotheses about QuickMind page engagement and anonymous observations stored on this browser. These are not global site traffic statistics.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/insights/",
+    "mainCharacters": 3708
+  },
+  {
+    "route": "/pages/international-scenes/",
+    "kind": "scenes",
+    "language": "en",
+    "title": "QuickMind International Scenes | Singapore & Indonesia",
+    "description": "See QuickMind demonstrations in Singapore and Indonesia and community sessions in Hong Kong. Explore photographs and discuss a local product demonstration.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/international-scenes/",
+    "mainCharacters": 1907
+  },
+  {
+    "route": "/pages/registrations/",
+    "kind": "registrations",
+    "language": "en",
+    "title": "YIWEI Medical Registration & Conformity Documents",
+    "description": "Explore supplied YIWEI Medical registration, listing and conformity records by product and market. Review document scope and the original PDF files.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/registrations/",
+    "mainCharacters": 5211
+  },
+  {
+    "route": "/pages/seo-geo-review/",
+    "kind": "review",
+    "language": "en",
+    "title": "SEO 与 GEO 优化记录 | QuickMind Store1",
+    "description": "QuickMind Store1 全站 SEO 与 GEO 修改对比、验证结果及正式上线前的搜索可见性配置。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pages/seo-geo-review/",
+    "mainCharacters": 1461
+  },
+  {
+    "route": "/pricing/",
+    "kind": "pricing",
+    "language": "en",
+    "title": "QuickMind Pricing | VR Rental & Annual Training Plan",
+    "description": "Compare the proposed QuickMind Home equipment rental and annual subscription: $499 plus $1,999 per year, before tax and shipping. Request a confirmed quote.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/pricing/",
+    "mainCharacters": 3402
+  },
+  {
+    "route": "/products/quickmind-home/",
+    "kind": "product",
+    "language": "en",
+    "title": "QuickMind Home VR Training System | Product & Features",
+    "description": "Explore the QuickMind Home VR system, cognitive training activities, setup requirements and proposed equipment rental plan. Request a country-specific quote.",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/home-product/",
+    "mainCharacters": 4994
+  },
+  {
+    "route": "/zh-CN/home-product/",
+    "kind": "product",
+    "language": "zh-CN",
+    "title": "QuickMind Home | QuickMind",
+    "description": "QuickMind 将沉浸式 VR 活动与认知训练结合，帮助用户和照护者建立居家训练流程。 注意力、记忆、计算、抽象思维与执行功能",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/home-product/",
+    "mainCharacters": 537
+  },
+  {
+    "route": "/zh-CN/",
+    "kind": "home",
+    "language": "zh-CN",
+    "title": "让认知训练融入居家生活。 | QuickMind",
+    "description": "QuickMind 将沉浸式 VR 活动与认知训练结合，帮助用户和照护者建立居家训练流程。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/",
+    "mainCharacters": 903
+  },
+  {
+    "route": "/zh-CN/pages/answers/clinic-distributor/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "机构或代理商如何申请演示？ | QuickMind",
+    "description": "使用统一询价表单，选择机构或代理商并填写国家、机构、数量及需求。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/clinic-distributor/",
+    "mainCharacters": 292
+  },
+  {
+    "route": "/zh-CN/pages/answers/evidence/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "有什么研究证据？ | QuickMind",
+    "description": "证据页有四篇评估及筛查相关研究，不能直接视为家庭训练治疗效果的证明。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/evidence/",
+    "mainCharacters": 329
+  },
+  {
+    "route": "/zh-CN/pages/answers/first-year-price/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "首年费用是多少？ | QuickMind",
+    "description": "拟定美国方案为 CNY 3,339.37设备租赁费加 CNY 13,377.57年度订阅费，合计 CNY 16,716.94，未含税和运费。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/first-year-price/",
+    "mainCharacters": 447
+  },
+  {
+    "route": "/zh-CN/pages/answers/home-vs-clinic/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "家庭版与机构版有什么区别？ | QuickMind",
+    "description": "家庭方案拟供一名训练者使用，不含临床评估；机构模块、用户容量及许可单独配置。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/home-vs-clinic/",
+    "mainCharacters": 288
+  },
+  {
+    "route": "/zh-CN/pages/answers/international-delivery/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "可以配送到我的国家吗？ | QuickMind",
+    "description": "可咨询美国、欧洲、日韩、东南亚、中东及其他地区；资格、库存和配送按国家确认。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/international-delivery/",
+    "mainCharacters": 404
+  },
+  {
+    "route": "/zh-CN/pages/answers/languages/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "软件支持哪些语言？ | QuickMind",
+    "description": "请确认具体软件版本的训练、报告和支持语言；网站语言不等于软件语言。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/languages/",
+    "mainCharacters": 325
+  },
+  {
+    "route": "/zh-CN/pages/answers/overseas-scenes/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "有哪些海外演示或使用场景？ | QuickMind",
+    "description": "网站展示新加坡、印尼现场演示和香港社区使用照片，照片不用于证明疗效。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/overseas-scenes/",
+    "mainCharacters": 336
+  },
+  {
+    "route": "/zh-CN/pages/answers/paypal-payment/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "怎样通过 PayPal 或银行卡付款？ | QuickMind",
+    "description": "确认报价后使用官方 PayPal 按钮；可用支付方式由 PayPal 决定，订单暂不自动同步。 PayPal 实际结算币种为 USD（美元）。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/paypal-payment/",
+    "mainCharacters": 396
+  },
+  {
+    "route": "/zh-CN/pages/answers/progress-reports/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "可以查看训练报告吗？ | QuickMind",
+    "description": "报告可能包含完成情况及支持的表现指标，照护者权限和报告格式须按配置确认。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/progress-reports/",
+    "mainCharacters": 353
+  },
+  {
+    "route": "/zh-CN/pages/answers/registrations/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "在我的国家获得批准了吗？ | QuickMind",
+    "description": "注册或符合性记录适用于具体产品与地区，购买前须确认型号当前的当地状态。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/registrations/",
+    "mainCharacters": 334
+  },
+  {
+    "route": "/zh-CN/pages/answers/renewal/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "年度订阅如何续费？ | QuickMind",
+    "description": "拟定连续租赁期间每年 CNY 13,377.57；日期、取消及续费方式须确认，当前按钮不建立自动续费。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/renewal/",
+    "mainCharacters": 427
+  },
+  {
+    "route": "/zh-CN/pages/answers/rental-ownership/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "支付租赁费后设备归我吗？ | QuickMind",
+    "description": "设备仍为供应方所有；CNY 3,339.37不是以可退押金名义收取，退还条款须确认。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/rental-ownership/",
+    "mainCharacters": 437
+  },
+  {
+    "route": "/zh-CN/pages/answers/returns-cancellation/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "取消或退还设备如何处理？ | QuickMind",
+    "description": "退款、退还时限、邮费和损坏处理须在付款前书面约定，目前不承诺统一退还政策。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/returns-cancellation/",
+    "mainCharacters": 402
+  },
+  {
+    "route": "/zh-CN/pages/answers/setup-requirements/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "安装需要哪些条件？ | QuickMind",
+    "description": "网络、空间、配套设备及账户要求按所供硬件软件确认，请先索取安装指南。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/setup-requirements/",
+    "mainCharacters": 334
+  },
+  {
+    "route": "/zh-CN/pages/answers/support-warranty/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "有哪些安装支持和保修？ | QuickMind",
+    "description": "具体报价确认远程安装、支持语言、保修期限及服务范围。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/support-warranty/",
+    "mainCharacters": 312
+  },
+  {
+    "route": "/zh-CN/pages/answers/training-activities/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "有哪些训练活动？ | QuickMind",
+    "description": "材料涵盖注意力、记忆、计算、抽象思维与执行功能；具体活动库以软件版本为准。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/training-activities/",
+    "mainCharacters": 355
+  },
+  {
+    "route": "/zh-CN/pages/answers/training-schedule/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "每天训练多久？ | QuickMind",
+    "description": "时长和频率应遵循具体产品说明及适当的专业指导，网站不提供通用训练处方。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/training-schedule/",
+    "mainCharacters": 333
+  },
+  {
+    "route": "/zh-CN/pages/answers/what-is-included/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "包含什么设备和配件？ | QuickMind",
+    "description": "拟包含一台租赁头显；控制器、充电器、配套设备及其他配件在报价中列明。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/what-is-included/",
+    "mainCharacters": 332
+  },
+  {
+    "route": "/zh-CN/pages/answers/what-is-quickmind/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "QuickMind 家庭版是什么？ | QuickMind",
+    "description": "拟定家庭方案结合租赁 VR 设备与年度认知训练订阅；具体配置以报价为准。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/what-is-quickmind/",
+    "mainCharacters": 353
+  },
+  {
+    "route": "/zh-CN/pages/answers/who-is-it-for/",
+    "kind": "answer",
+    "language": "zh-CN",
+    "title": "适合哪些用户？ | QuickMind",
+    "description": "适用性取决于具体型号、用途与用户需求，年龄、注意事项及专业监督要求需确认。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/answers/who-is-it-for/",
+    "mainCharacters": 349
+  },
+  {
+    "route": "/zh-CN/pages/clinical-evidence/",
+    "kind": "evidence",
+    "language": "zh-CN",
+    "title": "科学证据 | QuickMind",
+    "description": "所列研究涉及评估或筛查，不能直接证明家庭训练方案的治疗效果。请确认研究与具体型号及用途的对应关系。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/clinical-evidence/",
+    "mainCharacters": 2948
+  },
+  {
+    "route": "/zh-CN/pages/compare/",
+    "kind": "compare",
+    "language": "zh-CN",
+    "title": "方案对比 | QuickMind",
+    "description": "家庭用户及照护者的居家认知训练 机构评估及／或训练；模块与许可另行报价 当地销售、演示、培训和合作条款单独商议",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/compare/",
+    "mainCharacters": 425
+  },
+  {
+    "route": "/zh-CN/pages/contact/",
+    "kind": "contact",
+    "language": "zh-CN",
+    "title": "联系我们 | QuickMind",
+    "description": "请提供配送国家、所需语言和设备数量，以确认产品适用市场、库存、运费和交付时间。 安装指导、远程支持、保修期限和服务语言以具体报价为准。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/contact/",
+    "mainCharacters": 443
+  },
+  {
+    "route": "/zh-CN/pages/faq/",
+    "kind": "faq",
+    "language": "zh-CN",
+    "title": "常见问题 | QuickMind",
+    "description": "全部 20 个问题 首年费用是多少？ 怎样通过 PayPal 或银行卡付款？",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/faq/",
+    "mainCharacters": 1408
+  },
+  {
+    "route": "/zh-CN/pages/insights/",
+    "kind": "insights",
+    "language": "zh-CN",
+    "title": "页面停留分析 | QuickMind",
+    "description": "以下为 AI 内容评估假设，并非真实客户停留率。统计仅保存在当前浏览器，尚未接入全站分析后台。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/insights/",
+    "mainCharacters": 215
+  },
+  {
+    "route": "/zh-CN/pages/international-scenes/",
+    "kind": "scenes",
+    "language": "zh-CN",
+    "title": "海外使用场景 | QuickMind",
+    "description": "新加坡和印尼照片展示现场演示，香港照片展示社区使用场景；照片不代表临床效果。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/international-scenes/",
+    "mainCharacters": 472
+  },
+  {
+    "route": "/zh-CN/pages/registrations/",
+    "kind": "registrations",
+    "language": "zh-CN",
+    "title": "注册资料 | QuickMind",
+    "description": "注册、备案和符合性资料对应具体产品及市场，不代表全球批准或所有型号均可销售。原始文件保留其原有语言。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pages/registrations/",
+    "mainCharacters": 1555
+  },
+  {
+    "route": "/zh-CN/pricing/",
+    "kind": "pricing",
+    "language": "zh-CN",
+    "title": "方案与价格 | QuickMind",
+    "description": "家庭用户及照护者的居家认知训练 未含税费及运费；以美元基础报价换算，最终配置和金额以书面报价为准。",
+    "canonical": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site/zh-CN/pricing/",
+    "mainCharacters": 529
+  }
+]
