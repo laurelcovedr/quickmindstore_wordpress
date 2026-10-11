@@ -2,7 +2,24 @@ function sourceReference(path=location.pathname){return 'QM-'+(path==='/'?'HOME'
 let latestInquirySource='direct-form',sourceCampaign={};
 try{const incoming=new URLSearchParams(location.search);for(const key of ['utm_source','utm_medium','utm_campaign','utm_content','utm_term']){const value=incoming.get(key);if(value)sourceCampaign[key]=value.replace(/[^a-z0-9 _.-]/gi,'').slice(0,100)}const prior=JSON.parse(sessionStorage.getItem('qm-campaign')||'{}');sourceCampaign=Object.keys(sourceCampaign).length?sourceCampaign:prior;sessionStorage.setItem('qm-campaign',JSON.stringify(sourceCampaign));latestInquirySource=(incoming.get('qm_source')||'direct-form').replace(/[^a-z0-9_-]/gi,'').slice(0,160)}catch{}
 function inquiryAttribution(){return {page:location.pathname,cta:latestInquirySource,reference:sourceReference(),utm:sourceCampaign}}
-function tagPageSources(){const reference=sourceReference();document.querySelectorAll('[data-action],a[data-route]').forEach((el,i)=>{const label=(el.dataset.action||el.textContent||'link').trim().toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,70);el.dataset.source=reference+'-'+label;if(el.matches('a[data-route]')){const u=new URL(el.getAttribute('href'),location.origin);u.searchParams.set('qm_source',el.dataset.source);el.setAttribute('href',u.pathname+u.search+u.hash)}});document.querySelectorAll('a[href^="mailto:yiweiinc99@gmail.com"]').forEach(el=>{el.setAttribute('href','mailto:yiweiinc99@gmail.com?subject='+encodeURIComponent('QuickMind enquiry | '+reference)+'&body='+encodeURIComponent('Source page: '+location.pathname+'\nPage reference: '+reference+'\nSource entry: direct-email\nCampaign: '+JSON.stringify(sourceCampaign)))});const label=document.querySelector('#page-source-reference');if(label)label.textContent=(label.dataset.sourceLabel||'Page reference')+': '+reference;measurePage()}
+function tagPageSources(){
+ const reference=sourceReference();
+ document.querySelectorAll('[data-action],a[data-route]').forEach((el,i)=>{
+  // Keep editorial keys; generated keys remain deterministic across repeated tagging.
+  if(!el.dataset.sourceKey && el.dataset.source && !el.dataset.sourceGenerated)el.dataset.sourceKey=el.dataset.source;
+  const route=el.matches('a[data-route]')?new URL(el.getAttribute('href'),location.origin):null;
+  const key=el.dataset.sourceKey||el.dataset.action||(route?route.pathname+'-'+(route.searchParams.get('intent')||''):el.textContent)||'link';
+  const label=key.trim().toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,70)||'link';
+  el.dataset.source=reference+'-'+label+'-'+(i+1);el.dataset.sourceGenerated='true';
+  if(route){route.searchParams.set('qm_source',el.dataset.source);el.setAttribute('href',route.pathname+route.search+route.hash)}
+ });
+ document.querySelectorAll('a[href^="mailto:yiweiinc99@gmail.com"]').forEach(el=>{
+  // A prepared form email contains customer details: never replace it with a generic source draft.
+  if(el.id==='send-email'||el.id==='local-mail')return;
+  el.setAttribute('href','mailto:yiweiinc99@gmail.com?subject='+encodeURIComponent('QuickMind enquiry | '+reference)+'&body='+encodeURIComponent('Source page: '+location.pathname+'\nPage reference: '+reference+'\nSource entry: direct-email\nCampaign: '+JSON.stringify(sourceCampaign)))
+ });
+ const label=document.querySelector('#page-source-reference');if(label)label.textContent=(label.dataset.sourceLabel||'Page reference')+': '+reference;measurePage()
+}
 // Anonymous counts stay on this browser only. No form values, email addresses or query strings are recorded.
 const engagementKey='qm-engagement-v1';let activePage='',activeStarted=0;
 function enabledForMeasurement(){return navigator.doNotTrack!=='1'&&navigator.globalPrivacyControl!==true}

@@ -1,5 +1,6 @@
 """Idempotent static SEO/GEO enrichment. Keeps the private preview private."""
 from pathlib import Path
+from PIL import Image
 from lxml import html, etree
 from urllib.parse import urlparse
 import json, re, collections
@@ -88,6 +89,10 @@ for f in sorted(DIST.rglob('*.html')):
  if canonical!=prefix+'/' and not main.xpath('.//nav[@aria-label="Breadcrumb"]'):
   nav=element('nav',**{'data-seo-geo':'breadcrumb','class':'container seo-breadcrumb','aria-label':'Breadcrumb'});nav.append(element('a',labels[lang][4],href=prefix+'/'));nav[-1].tail=' / '+h1;main.insert(0,nav)
  for img in main.xpath('.//img'):
+  src=img.get('src','');asset=DIST/src.lstrip('/')
+  if src.startswith('/assets/') and asset.is_file():
+   with Image.open(asset) as image:width,height=image.size
+   img.set('width',str(width));img.set('height',str(height))
   if img.get('fetchpriority')!='high':img.set('loading','lazy')
   img.set('decoding','async')
  # Runtime English SPA must apply this page's complete graph after navigation.

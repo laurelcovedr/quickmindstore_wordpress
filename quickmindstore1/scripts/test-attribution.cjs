@@ -9,3 +9,12 @@ console.log('Page/CTA/UTM attribution and isolated anonymous browser counts pass
 // A new campaign must not inherit fields from the previous campaign.
 const second={...ctx,location:{...ctx.location,search:'?utm_source=google'},document:{...ctx.document,addEventListener(){}}};vm.createContext(second);vm.runInContext(fs.readFileSync('dist/tracking.js','utf8'),second);const next=vm.runInContext('inquiryAttribution()',second);assert.equal(next.utm.utm_source,'google');assert.equal(next.utm.utm_campaign,undefined);
 vm.runInContext("addMetric('/products/quickmind-home/','views')",second);assert.ok(JSON.parse(data['qm-engagement-v1'])['/home-product/']);
+
+// Non-Latin labels, repeated CTA placement and editorial keys must stay distinct and stable.
+const elements=['了解产品','产品','联系我们'].map((text,i)=>({textContent:text,dataset:i===2?{source:'QM1-zh-CN-path-clinic'}:{},href:i===2?'/zh-CN/pages/contact/?intent=clinic':'/zh-CN/home-product/',matches:()=>true,getAttribute(){return this.href},setAttribute(k,v){this[k]=v}}));
+const mails=[{id:'local-mail',href:'mailto:yiweiinc99@gmail.com?body=Prepared%20customer%20request',setAttribute(k,v){this[k]=v}},{id:'send-email',href:'mailto:yiweiinc99@gmail.com?body=Other%20prepared%20request',setAttribute(k,v){this[k]=v}},{id:'footer-email',setAttribute(k,v){this[k]=v}}];
+ctx.document.querySelectorAll=q=>q.startsWith('a[href')?mails:elements;
+ctx.location.pathname='/zh-CN/';vm.runInContext('tagPageSources()',ctx);
+const keys=elements.map(e=>e.dataset.source),hrefs=elements.map(e=>e.href);assert.equal(new Set(keys).size,3);assert.ok(keys[2].includes('qm1-zh-cn-path-clinic'));assert.equal(new URL(elements[2].href,ctx.location.origin).searchParams.get('intent'),'clinic');
+vm.runInContext('tagPageSources()',ctx);assert.deepEqual(elements.map(e=>e.dataset.source),keys);assert.deepEqual(elements.map(e=>e.href),hrefs);assert.ok(mails[0].href.includes('Prepared%20customer'));assert.ok(mails[1].href.includes('Other%20prepared'));assert.ok(mails[2].href.includes('Source%20page'));
+console.log('Multilingual source keys are unique, preserve intent, survive retagging and protect prepared email drafts.');

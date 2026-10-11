@@ -4,3 +4,7 @@
 @media(prefers-reduced-motion:reduce){.s1-path{transition:none}}
 
 .geo-facts{max-width:1000px}.geo-facts h3{font-size:21px;margin-top:22px;letter-spacing:-.02em}.geo-facts p{color:var(--muted)}.study-card [data-seo-geo] h3{font-size:17px}.study-card [data-seo-geo] p{font-size:13px}
+
+/* Keyboard and motion preferences apply to every language. */
+a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible,textarea:focus-visible,summary:focus-visible{outline:3px solid #32634f;outline-offset:4px}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}*,*::before,*::after{animation:none!important;transition:none!important}}
