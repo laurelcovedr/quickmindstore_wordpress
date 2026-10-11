@@ -1,0 +1,154 @@
+{
+  "nav": "Hauptnavigation",
+  "home": "Start",
+  "product": "Produkt",
+  "pricing": "Angebote und Preise",
+  "evidence": "Forschung",
+  "faq": "FAQ",
+  "contact": "Kontakt",
+  "compare": "Angebote vergleichen",
+  "scenes": "Internationale Einblicke",
+  "registrations": "Registrierungsunterlagen",
+  "insights": "Seitenanalyse",
+  "hero": "Kognitives VR-Training für zu Hause.",
+  "intro": "QuickMind verbindet immersive VR-Aktivitäten mit kognitivem Training für eine häusliche Routine mit Unterstützung durch Betreuungspersonen.",
+  "quote": "Angebot anfordern",
+  "learn": "Produkt entdecken",
+  "homePlan": "Angebot für zu Hause",
+  "clinic": "Kliniken und Pflegeeinrichtungen",
+  "distributor": "Vertriebspartner",
+  "training": "Aufmerksamkeit, Gedächtnis, Rechnen, Abstraktion und exekutive Funktionen",
+  "setup": "Einrichtung und Nutzung",
+  "equipment": "Geräte und Zubehör",
+  "reports": "Trainingsverlauf und Fortschritt",
+  "researchNote": "Die Studien betreffen Untersuchung oder Screening und belegen nicht die therapeutische Wirksamkeit des Heimangebots. Prüfen Sie die Zuordnung zum konkreten Modell und Verwendungszweck.",
+  "documentsNote": "Registrierungs- und Konformitätsunterlagen gelten für bestimmte Produkte und Märkte, nicht als weltweite Zulassung. Originaldokumente bleiben in ihrer Ursprungssprache.",
+  "internationalNote": "Die Fotos zeigen Vorführungen in Singapur und Indonesien sowie gemeindenahe Anwendungen in Hongkong, keine nachgewiesenen Behandlungsergebnisse.",
+  "rental": "Anfängliche Gerätemiete",
+  "annual": "Jahresabonnement",
+  "total": "Gesamtbetrag im ersten Jahr",
+  "priceNote": "Ohne Steuern und Versand; Umrechnung des USD-Basispreises. Konfiguration und Endbetrag laut schriftlichem Angebot.",
+  "ownership": "Das Mietgerät bleibt Eigentum des Anbieters. Die 499 USD werden nicht als rückzahlbare Kaution angeboten.",
+  "renewal": "Vorgeschlagene Verlängerung: 1.999 USD jährlich bei fortlaufender Miete; Bedingungen schriftlich bestätigen.",
+  "delivery": "Land, Sprache und Anzahl angeben, um Verfügbarkeit, Versand und Lieferzeit zu bestätigen.",
+  "returns": "Kündigung, Erstattung, Rückgabe, Porto und Schäden vor Zahlung schriftlich vereinbaren.",
+  "support": "Einrichtung, Fernsupport, Garantie und Supportsprache richten sich nach dem Angebot.",
+  "payment": "Mit PayPal bezahlen",
+  "paymentNote": "Angebot bestätigen und Artikel, Währung, Betrag und Empfänger bei PayPal prüfen. Zahlungsarten bestimmt PayPal; Bestellungen werden nicht automatisch synchronisiert. PayPal-Zahlungen werden in USD abgerechnet.",
+  "preview": "Private Vorschau · Preise vorbehaltlich Bestätigung",
+  "language": "Sprache",
+  "menu": "Menü",
+  "name": "Name",
+  "email": "E-Mail",
+  "country": "Lieferland",
+  "organization": "Organisation (optional)",
+  "quantity": "Anzahl der Geräte",
+  "buyer": "Kundentyp",
+  "notes": "Anforderungen (optional)",
+  "prepare": "Anfrage-E-Mail vorbereiten",
+  "formNote": "Das Formular erstellt einen Entwurf und speichert Ihre Angaben nicht auf der Website. Prüfen und senden Sie ihn in Ihrem E-Mail-Programm. Keine Krankenakten angeben.",
+  "ready": "Anfrage vorbereitet",
+  "openEmail": "E-Mail-Programm öffnen",
+  "copy": "Anfrage kopieren",
+  "notSent": "Die E-Mail wurde noch nicht gesendet. Bitte selbst prüfen und senden.",
+  "company": "Unternehmen und Kontakt",
+  "source": "Seitenquelle",
+  "related": "Weitere Fragen",
+  "allQuestions": "Alle 20 Fragen",
+  "details": "Vollständige Antwort",
+  "included": "Das Angebot nennt Modell, Zubehör, Module, Nutzerzahl und Support.",
+  "caution": "Alter, Voraussetzungen und Vorsichtsmaßnahmen des Modells bestätigen; Trainingswerte sind keine Diagnose.",
+  "original": "Originalunterlagen ansehen",
+  "homePurpose": "Kognitives Heimtraining für Nutzer und Betreuungspersonen",
+  "clinicPurpose": "Untersuchung und/oder Training in Einrichtungen; Module und Lizenzen gesondert angeboten",
+  "distributorPurpose": "Lokaler Vertrieb, Vorführungen, Schulung und Geschäftsbedingungen individuell vereinbart",
+  "questions": [
+    [
+      "Was ist QuickMind Home?",
+      "Ein vorgeschlagenes Angebot aus gemietetem VR-Gerät und jährlichem Training-Abonnement; die Konfiguration steht im Angebot."
+    ],
+    [
+      "Für wen ist das System geeignet?",
+      "Das hängt von Modell, Zweck und Bedürfnissen ab. Alter, Vorsichtsmaßnahmen und notwendige fachliche Betreuung bestätigen."
+    ],
+    [
+      "Wie unterscheiden sich Heim- und Klinikangebot?",
+      "Das Heimangebot ist für einen Nutzer vorgesehen und enthält keine klinische Untersuchung; Klinikmodule und Kapazität werden separat vereinbart."
+    ],
+    [
+      "Welche Trainingsaktivitäten gibt es?",
+      "Die Unterlagen beschreiben Aufmerksamkeit, Gedächtnis, Rechnen, Abstraktion und exekutive Funktionen; der Umfang hängt von der Version ab."
+    ],
+    [
+      "Gibt es Fortschrittsberichte?",
+      "Berichte können Training und verfügbare Leistungswerte zeigen. Zugang für Betreuungspersonen und Format sind zu bestätigen."
+    ],
+    [
+      "Welche Geräte sind enthalten?",
+      "Ein Miet-Headset ist vorgesehen; Controller, Ladegerät und Zusatzgeräte werden im Angebot aufgelistet."
+    ],
+    [
+      "Was brauche ich zur Einrichtung?",
+      "Internet, sicherer Platz, Zusatzgerät und Konto hängen vom Modell ab. Fordern Sie die Installationsanleitung an."
+    ],
+    [
+      "Welche Sprachen unterstützt die Software?",
+      "Sprache der Aktivitäten, Berichte und Unterstützung für die konkrete Version bestätigen; die Website-Sprache garantiert dies nicht."
+    ],
+    [
+      "Wie lange sollte ich trainieren?",
+      "Befolgen Sie Produktanleitung und geeignete fachliche Empfehlungen; die Website gibt keinen allgemeinen Trainingsplan vor."
+    ],
+    [
+      "Welche Forschung liegt vor?",
+      "Vier Veröffentlichungen behandeln Untersuchung und Screening; sie belegen nicht die therapeutische Wirksamkeit des Heimangebots."
+    ],
+    [
+      "Ist das Produkt in meinem Land zugelassen?",
+      "Unterlagen gelten für bestimmte Produkte und Märkte. Den aktuellen örtlichen Status des Modells vor Kauf bestätigen."
+    ],
+    [
+      "Wo wurde das System international gezeigt?",
+      "Fotos zeigen Vorführungen in Singapur und Indonesien sowie Anwendungen in Hongkong, ohne klinische Wirksamkeit zu belegen."
+    ],
+    [
+      "Was kostet das erste Jahr?",
+      "US-Vorschlag: 499 USD anfängliche Gerätemiete plus 1.999 USD Jahresabo, insgesamt 2.498 USD ohne Steuern und Versand."
+    ],
+    [
+      "Gehört mir das Headset nach der Zahlung?",
+      "Nein, es bleibt Eigentum des Anbieters. Die 499 USD werden nicht als rückzahlbare Kaution beschrieben."
+    ],
+    [
+      "Wie verlängert sich das Abonnement?",
+      "Vorgeschlagen sind 1.999 USD jährlich bei fortlaufender Miete. Termine und Kündigung vereinbaren; der Button erstellt keine automatische Verlängerung."
+    ],
+    [
+      "Wie bezahle ich mit PayPal oder Karte?",
+      "Nach Angebotsbestätigung den offiziellen Button nutzen. PayPal bestimmt Zahlungsarten; keine automatische Bestellsynchronisierung. PayPal-Zahlungen werden in USD abgerechnet."
+    ],
+    [
+      "Können Sie in mein Land liefern?",
+      "Anfragen für USA, Europa, Japan, Korea, Südostasien, Nahost und andere Ziele sind möglich; Verfügbarkeit bestätigen."
+    ],
+    [
+      "Was gilt bei Kündigung oder Rückgabe?",
+      "Erstattung, Fristen, Porto und Schäden vor Zahlung schriftlich vereinbaren; es gibt keine zugesagte allgemeine Rückgaberegel."
+    ],
+    [
+      "Welchen Support und welche Garantie gibt es?",
+      "Das Angebot bestätigt Ferninstallation, Sprachen, Garantiedauer und Serviceumfang."
+    ],
+    [
+      "Wie erhalten Kliniken oder Vertriebspartner eine Demo?",
+      "Gemeinsames Formular verwenden, Kundentyp wählen und Land, Organisation, Anzahl und Anforderungen angeben."
+    ]
+  ],
+  "metricsNote": "Dies sind KI-Inhaltshypothesen, keine gemessenen Verweilraten. Beobachtungen bleiben in diesem Browser; keine globale Analyse ist angeschlossen.",
+  "priority": "Seiten mit hohem Erkundungspotenzial",
+  "contactFocus": "Die Kontaktseite soll Anfragen erleichtern; längere Verweildauer bedeutet nicht immer bessere Ergebnisse.",
+  "paymentError": "PayPal konnte nicht geladen werden. Erneut versuchen oder Vertrieb kontaktieren.",
+  "paymentRetry": "PayPal erneut laden",
+  "fxNote": "Lokale Richtbeträge zum EZB-Referenzkurs vom 09.10.2026. PayPal rechnet in USD ab; Umrechnungskurs und Gebühren können abweichen.",
+  "currencyLabel": "Währung"
+}

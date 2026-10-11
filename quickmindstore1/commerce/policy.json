@@ -1,0 +1,15 @@
+{
+  "status": "DRAFT_NOT_ACTIVE",
+  "currency": "USD",
+  "product": "QUICKMIND_HOME_FIRST_YEAR",
+  "rentalCents": 49900,
+  "annualCents": 199900,
+  "couponScope": "INITIAL_RENTAL_AND_FIRST_YEAR_SUBSCRIPTION",
+  "taxAndShippingDiscounted": false,
+  "stacking": false,
+  "renewalDiscounted": false,
+  "coupons": [{"code":"QM90","payBasisPoints":9000},{"code":"QM80","payBasisPoints":8000},{"code":"QM50","payBasisPoints":5000}],
+  "attribution": {"proposal":"explicit signed dealer code takes priority; otherwise first valid referral in 30 days", "windowDays":30,"orderAttributionLocked":true,"couponDoesNotReplaceDealer":true},
+  "settlement": {"commissionBasis":"discounted product revenue less product refunds; excludes tax and shipping", "commissionBasisPoints":null,"proposedHoldDays":30,"cadence":"monthly","payoutRequiresReview":true},
+  "invoice": {"trigger":"SERVER_VERIFIED_CAPTURE_COMPLETED","currency":"USD","customerLanguage":true,"uniquePerOrder":true,"automaticEmail":true,"demoSendsEmail":false}
+}

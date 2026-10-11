@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /documents/
+Sitemap: https://quickmind-store1.lawrence-wan-0405.chatgpt.site/sitemap.xml

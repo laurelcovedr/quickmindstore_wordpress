@@ -1,0 +1,154 @@
+{
+  "nav": "Navigation principale",
+  "home": "Accueil",
+  "product": "Produit",
+  "pricing": "Offres et tarifs",
+  "evidence": "Données scientifiques",
+  "faq": "FAQ",
+  "contact": "Contact",
+  "compare": "Comparer les offres",
+  "scenes": "Usages internationaux",
+  "registrations": "Documents réglementaires",
+  "insights": "Analyse des pages",
+  "hero": "Un entraînement cognitif en VR à domicile.",
+  "intro": "QuickMind associe des activités immersives en réalité virtuelle à un entraînement cognitif pour une routine à domicile avec les aidants.",
+  "quote": "Demander un devis",
+  "learn": "Découvrir le produit",
+  "homePlan": "Offre à domicile",
+  "clinic": "Cliniques et établissements",
+  "distributor": "Distributeurs",
+  "training": "Attention, mémoire, calcul, abstraction et fonctions exécutives",
+  "setup": "Installation et utilisation",
+  "equipment": "Équipement et accessoires",
+  "reports": "Suivi et progression",
+  "researchNote": "Les études concernent l’évaluation ou le dépistage ; elles ne démontrent pas l’efficacité thérapeutique de l’offre à domicile. Vérifiez leur lien avec le modèle et l’usage précis.",
+  "documentsNote": "Les enregistrements et documents de conformité concernent des produits et marchés précis, sans constituer une autorisation mondiale. Les originaux conservent leur langue.",
+  "internationalNote": "Les photos montrent des démonstrations à Singapour et en Indonésie et des séances communautaires à Hong Kong, sans prouver de résultats cliniques.",
+  "rental": "Location initiale du matériel",
+  "annual": "Abonnement annuel",
+  "total": "Total de la première année",
+  "priceNote": "Hors taxes et livraison ; conversion du tarif de base en USD. Configuration et total confirmés par devis écrit.",
+  "ownership": "Le matériel reste la propriété du fournisseur. Les 499 USD ne sont pas présentés comme une caution remboursable.",
+  "renewal": "Renouvellement proposé : 1 999 USD par an en location continue ; modalités à confirmer par écrit.",
+  "delivery": "Indiquez pays, langue et quantité pour confirmer disponibilité, livraison et délais.",
+  "returns": "Confirmez par écrit annulation, remboursement, retour, frais et dommages avant paiement.",
+  "support": "Installation, assistance à distance, garantie et langue du support dépendent du devis.",
+  "payment": "Payer avec PayPal",
+  "paymentNote": "Confirmez le devis puis vérifiez article, devise, montant et bénéficiaire dans PayPal. Les moyens de paiement dépendent de PayPal ; les commandes ne sont pas synchronisées automatiquement. La devise de paiement PayPal est l’USD.",
+  "preview": "Aperçu privé · Tarifs proposés",
+  "language": "Langue",
+  "menu": "Menu",
+  "name": "Nom",
+  "email": "E-mail",
+  "country": "Pays de livraison",
+  "organization": "Organisation (facultatif)",
+  "quantity": "Nombre d’appareils",
+  "buyer": "Type de client",
+  "notes": "Besoins (facultatif)",
+  "prepare": "Préparer la demande par e-mail",
+  "formNote": "Ce formulaire prépare un brouillon sans conserver vos données sur le site. Vérifiez-le et envoyez-le dans votre messagerie. N’ajoutez pas de dossier médical.",
+  "ready": "Demande préparée",
+  "openEmail": "Ouvrir la messagerie",
+  "copy": "Copier la demande",
+  "notSent": "L’e-mail n’a pas été envoyé ; vérifiez-le et envoyez-le vous-même.",
+  "company": "Entreprise et contact",
+  "source": "Source de la page",
+  "related": "Questions associées",
+  "allQuestions": "Les 20 questions",
+  "details": "Lire la réponse complète",
+  "included": "Le devis précise modèle, accessoires, modules, utilisateurs et assistance.",
+  "caution": "Confirmez âge, conditions et précautions du modèle ; les mesures d’entraînement ne constituent pas un diagnostic.",
+  "original": "Voir les documents originaux",
+  "homePurpose": "Entraînement cognitif à domicile pour les utilisateurs et aidants",
+  "clinicPurpose": "Évaluation et/ou entraînement en établissement ; modules et licences sur devis",
+  "distributorPurpose": "Vente locale, démonstrations, formation et conditions commerciales négociées séparément",
+  "questions": [
+    [
+      "Qu’est-ce que QuickMind Home ?",
+      "Une offre proposée de matériel VR loué et d’abonnement annuel à l’entraînement cognitif, selon la configuration du devis."
+    ],
+    [
+      "À qui convient le système ?",
+      "Cela dépend du modèle, de l’usage et des besoins. Confirmez l’âge, les précautions et la supervision nécessaire."
+    ],
+    [
+      "Quelle différence entre domicile et clinique ?",
+      "L’offre à domicile proposée vise un utilisateur et exclut l’évaluation clinique ; modules et capacité des établissements sont distincts."
+    ],
+    [
+      "Quelles activités sont proposées ?",
+      "Les documents décrivent attention, mémoire, calcul, abstraction et fonctions exécutives ; la bibliothèque dépend de la version."
+    ],
+    [
+      "Peut-on consulter des rapports ?",
+      "Ils peuvent montrer les activités réalisées et des indicateurs disponibles. Accès des aidants et format sont à confirmer."
+    ],
+    [
+      "Quel équipement est inclus ?",
+      "Un casque loué est proposé ; contrôleurs, chargeur et appareils associés sont précisés dans le devis."
+    ],
+    [
+      "Que faut-il pour l’installation ?",
+      "Connexion, espace sécurisé, appareil associé et compte dépendent du modèle. Demandez le guide d’installation."
+    ],
+    [
+      "Quelles langues le logiciel prend-il en charge ?",
+      "Confirmez la langue des activités, rapports et assistance pour la version précise ; la langue du site ne la garantit pas."
+    ],
+    [
+      "Combien de temps faut-il s’entraîner ?",
+      "Suivez les instructions du produit et les conseils professionnels adaptés ; ce site ne fixe pas de prescription universelle."
+    ],
+    [
+      "Quelles études soutiennent le produit ?",
+      "Quatre publications portent sur l’évaluation et le dépistage ; elles ne prouvent pas l’efficacité thérapeutique de l’offre à domicile."
+    ],
+    [
+      "Est-il autorisé dans mon pays ?",
+      "Les documents concernent un produit et un marché donnés. Vérifiez le statut actuel du modèle avant l’achat."
+    ],
+    [
+      "Où a-t-il été présenté à l’étranger ?",
+      "Les photos montrent Singapour, l’Indonésie et des séances communautaires à Hong Kong, sans attester d’efficacité clinique."
+    ],
+    [
+      "Quel est le coût de la première année ?",
+      "Proposition américaine : 499 USD de location initiale et 1 999 USD d’abonnement, soit 2 498 USD hors taxes et livraison."
+    ],
+    [
+      "Le casque m’appartient-il après paiement ?",
+      "Non, il reste la propriété du fournisseur. Les 499 USD ne sont pas décrits comme une caution remboursable."
+    ],
+    [
+      "Comment renouveler l’abonnement ?",
+      "1 999 USD par an sont proposés en location continue. Dates et annulation sont à convenir ; le bouton n’instaure pas de renouvellement automatique."
+    ],
+    [
+      "Comment payer avec PayPal ou une carte ?",
+      "Utilisez le bouton officiel après confirmation du devis. PayPal choisit les moyens disponibles ; pas de synchronisation automatique des commandes. La devise de paiement PayPal est l’USD."
+    ],
+    [
+      "Livrez-vous dans mon pays ?",
+      "Demandes possibles pour États-Unis, Europe, Japon, Corée, Asie du Sud-Est, Moyen-Orient et autres destinations ; disponibilité à confirmer."
+    ],
+    [
+      "Que se passe-t-il en cas d’annulation ou de retour ?",
+      "Remboursement, délais, frais et dommages doivent être convenus par écrit avant paiement ; aucune règle universelle n’est promise."
+    ],
+    [
+      "Quelle assistance et quelle garantie ?",
+      "Le devis confirme l’installation à distance, les langues, la durée de garantie et la couverture."
+    ],
+    [
+      "Comment demander une démonstration professionnelle ?",
+      "Utilisez le formulaire commun, choisissez établissement ou distributeur et indiquez pays, organisation, quantité et besoins."
+    ]
+  ],
+  "metricsNote": "Il s’agit d’hypothèses de contenu par IA, pas de taux mesurés. Les observations restent dans ce navigateur, sans analyse globale connectée.",
+  "priority": "Pages favorisant la poursuite de la visite",
+  "contactFocus": "Le contact doit faciliter la demande ; un temps plus long ne signifie pas toujours un meilleur résultat.",
+  "paymentError": "Impossible de charger PayPal. Réessayez ou contactez l’équipe.",
+  "paymentRetry": "Réessayer PayPal",
+  "fxNote": "Montants locaux indicatifs au taux de référence BCE du 09/10/2026. PayPal facture en USD ; son taux et ses frais peuvent différer.",
+  "currencyLabel": "Devise"
+}

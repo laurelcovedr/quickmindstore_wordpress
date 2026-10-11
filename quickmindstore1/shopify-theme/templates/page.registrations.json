@@ -1,0 +1,11 @@
+{
+  "sections": {
+    "main": {
+      "type": "qm-registrations",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

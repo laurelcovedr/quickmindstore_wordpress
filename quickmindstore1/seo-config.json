@@ -1,0 +1,223 @@
+{
+  "origin": "https://quickmind-store1.lawrence-wan-0405.chatgpt.site",
+  "private": true,
+  "pages": {
+    "/": {
+      "title": "QuickMind VR Cognitive Training | YIWEI Medical",
+      "description": "Explore QuickMind VR cognitive training for home users and caregivers. Compare rental plans, review product research and request an international quote.",
+      "name": "QuickMind VR Cognitive Training",
+      "page": "home",
+      "canonical": "/"
+    },
+    "/home-product/": {
+      "title": "QuickMind Home VR Training System | Product & Features",
+      "description": "Explore the QuickMind Home VR system, cognitive training activities, setup requirements and proposed equipment rental plan. Request a country-specific quote.",
+      "name": "QuickMind Home VR Training System",
+      "page": "product",
+      "canonical": "/home-product/"
+    },
+    "/pricing/": {
+      "title": "QuickMind Pricing | VR Rental & Annual Training Plan",
+      "description": "Compare the proposed QuickMind Home equipment rental and annual subscription: $499 plus $1,999 per year, before tax and shipping. Request a confirmed quote.",
+      "name": "QuickMind Rental & Subscription Pricing",
+      "page": "pricing",
+      "canonical": "/pricing/"
+    },
+    "/pages/clinical-evidence/": {
+      "title": "QuickMind Clinical Research | VR Cognitive Assessment",
+      "description": "Review four supplied publications on VR cognitive assessment and related screening methods, including study populations, findings and applicability limits.",
+      "name": "Research on Cognitive Assessment",
+      "page": "evidence",
+      "canonical": "/pages/clinical-evidence/"
+    },
+    "/pages/registrations/": {
+      "title": "YIWEI Medical Registration & Conformity Documents",
+      "description": "Explore supplied YIWEI Medical registration, listing and conformity records by product and market. Review document scope and the original PDF files.",
+      "name": "Product Registration & Conformity Records",
+      "page": "registrations",
+      "canonical": "/pages/registrations/"
+    },
+    "/pages/international-scenes/": {
+      "title": "QuickMind International Scenes | Singapore & Indonesia",
+      "description": "See QuickMind demonstrations in Singapore and Indonesia and community sessions in Hong Kong. Explore photographs and discuss a local product demonstration.",
+      "name": "QuickMind International Use Scenes",
+      "page": "scenes",
+      "canonical": "/pages/international-scenes/"
+    },
+    "/pages/contact/": {
+      "title": "Contact QuickMind | International Quotes & Clinic Demos",
+      "description": "Contact YIWEI USA INC for QuickMind home plans, clinic configurations or distribution enquiries. Request a quote for your destination and device requirements.",
+      "name": "Contact QuickMind & Request a Quote",
+      "page": "contact",
+      "canonical": "/pages/contact/"
+    },
+    "/products/quickmind-home/": {
+      "title": "QuickMind Home VR Training System | Product & Features",
+      "description": "Explore the QuickMind Home VR system, cognitive training activities, setup requirements and proposed equipment rental plan. Request a country-specific quote.",
+      "name": "QuickMind Home VR Training System",
+      "page": "product",
+      "canonical": "/home-product/"
+    },
+    "/pages/faq/": {
+      "title": "QuickMind FAQ | 20 Questions Before You Order",
+      "description": "Answers to 20 common QuickMind questions about VR training, home and clinic configurations, rental pricing, shipping, PayPal payments and support.",
+      "name": "QuickMind FAQ",
+      "page": "faq",
+      "canonical": "/pages/faq/"
+    },
+    "/pages/compare/": {
+      "title": "QuickMind Home vs Clinic Plans | Compare Configurations",
+      "description": "Compare QuickMind home training, clinic configurations and distributor enquiries. Review equipment, assessment scope, proposed pricing and onboarding.",
+      "name": "Compare QuickMind Plans",
+      "page": "compare",
+      "canonical": "/pages/compare/"
+    },
+    "/pages/answers/what-is-quickmind/": {
+      "title": "What is QuickMind Home | QuickMind",
+      "description": "QuickMind answers: What is QuickMind Home? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "What is QuickMind Home?",
+      "page": "answer",
+      "canonical": "/pages/answers/what-is-quickmind/"
+    },
+    "/pages/answers/who-is-it-for/": {
+      "title": "Who is the home system suitable for | QuickMind",
+      "description": "QuickMind answers: Who is the home system suitable for? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "Who is the home system suitable for?",
+      "page": "answer",
+      "canonical": "/pages/answers/who-is-it-for/"
+    },
+    "/pages/answers/home-vs-clinic/": {
+      "title": "How does the Home Plan differ from a clinic configuration | QuickMind",
+      "description": "QuickMind answers: How does the Home Plan differ from a clinic configuration? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "How does the Home Plan differ from a clinic configuration?",
+      "page": "answer",
+      "canonical": "/pages/answers/home-vs-clinic/"
+    },
+    "/pages/answers/training-activities/": {
+      "title": "What training activities are available | QuickMind",
+      "description": "QuickMind answers: What training activities are available? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "What training activities are available?",
+      "page": "answer",
+      "canonical": "/pages/answers/training-activities/"
+    },
+    "/pages/answers/progress-reports/": {
+      "title": "Can users and caregivers see progress reports | QuickMind",
+      "description": "QuickMind answers: Can users and caregivers see progress reports? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "Can users and caregivers see progress reports?",
+      "page": "answer",
+      "canonical": "/pages/answers/progress-reports/"
+    },
+    "/pages/answers/what-is-included/": {
+      "title": "What equipment and accessories are included | QuickMind",
+      "description": "QuickMind answers: What equipment and accessories are included? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "What equipment and accessories are included?",
+      "page": "answer",
+      "canonical": "/pages/answers/what-is-included/"
+    },
+    "/pages/answers/setup-requirements/": {
+      "title": "What do I need to set up the system | QuickMind",
+      "description": "QuickMind answers: What do I need to set up the system? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "What do I need to set up the system?",
+      "page": "answer",
+      "canonical": "/pages/answers/setup-requirements/"
+    },
+    "/pages/answers/languages/": {
+      "title": "Which languages does QuickMind support | QuickMind",
+      "description": "QuickMind answers: Which languages does QuickMind support? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "Which languages does QuickMind support?",
+      "page": "answer",
+      "canonical": "/pages/answers/languages/"
+    },
+    "/pages/answers/training-schedule/": {
+      "title": "How long and how often should I train | QuickMind",
+      "description": "QuickMind answers: How long and how often should I train? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "How long and how often should I train?",
+      "page": "answer",
+      "canonical": "/pages/answers/training-schedule/"
+    },
+    "/pages/answers/evidence/": {
+      "title": "What research supports the product | QuickMind",
+      "description": "QuickMind answers: What research supports the product? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "What research supports the product?",
+      "page": "answer",
+      "canonical": "/pages/answers/evidence/"
+    },
+    "/pages/answers/registrations/": {
+      "title": "Is QuickMind approved or registered in my country | QuickMind",
+      "description": "QuickMind answers: Is QuickMind approved or registered in my country? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "Is QuickMind approved or registered in my country?",
+      "page": "answer",
+      "canonical": "/pages/answers/registrations/"
+    },
+    "/pages/answers/overseas-scenes/": {
+      "title": "Where has the system been demonstrated or used overseas | QuickMind",
+      "description": "QuickMind answers: Where has the system been demonstrated or used overseas? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "Where has the system been demonstrated or used overseas?",
+      "page": "answer",
+      "canonical": "/pages/answers/overseas-scenes/"
+    },
+    "/pages/answers/first-year-price/": {
+      "title": "How much does the first year cost | QuickMind",
+      "description": "QuickMind answers: How much does the first year cost? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "How much does the first year cost?",
+      "page": "answer",
+      "canonical": "/pages/answers/first-year-price/"
+    },
+    "/pages/answers/rental-ownership/": {
+      "title": "Do I own the headset after paying the rental charge | QuickMind",
+      "description": "QuickMind answers: Do I own the headset after paying the rental charge? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "Do I own the headset after paying the rental charge?",
+      "page": "answer",
+      "canonical": "/pages/answers/rental-ownership/"
+    },
+    "/pages/answers/renewal/": {
+      "title": "How does the annual subscription renew | QuickMind",
+      "description": "QuickMind answers: How does the annual subscription renew? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "How does the annual subscription renew?",
+      "page": "answer",
+      "canonical": "/pages/answers/renewal/"
+    },
+    "/pages/answers/paypal-payment/": {
+      "title": "How can I pay with PayPal or a bank card | QuickMind",
+      "description": "QuickMind answers: How can I pay with PayPal or a bank card? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "How can I pay with PayPal or a bank card?",
+      "page": "answer",
+      "canonical": "/pages/answers/paypal-payment/"
+    },
+    "/pages/answers/international-delivery/": {
+      "title": "Can you ship to my country | QuickMind",
+      "description": "QuickMind answers: Can you ship to my country? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "Can you ship to my country?",
+      "page": "answer",
+      "canonical": "/pages/answers/international-delivery/"
+    },
+    "/pages/answers/returns-cancellation/": {
+      "title": "What happens if I cancel or return the equipment | QuickMind",
+      "description": "QuickMind answers: What happens if I cancel or return the equipment? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "What happens if I cancel or return the equipment?",
+      "page": "answer",
+      "canonical": "/pages/answers/returns-cancellation/"
+    },
+    "/pages/answers/support-warranty/": {
+      "title": "What setup support and warranty are provided | QuickMind",
+      "description": "QuickMind answers: What setup support and warranty are provided? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "What setup support and warranty are provided?",
+      "page": "answer",
+      "canonical": "/pages/answers/support-warranty/"
+    },
+    "/pages/answers/clinic-distributor/": {
+      "title": "Can clinics or distributors request a demonstration and commercial offer | QuickMind",
+      "description": "QuickMind answers: Can clinics or distributors request a demonstration and commercial offer? Review product scope, quotation requirements and the next step for your configuration.",
+      "name": "Can clinics or distributors request a demonstration and commercial offer?",
+      "page": "answer",
+      "canonical": "/pages/answers/clinic-distributor/"
+    },
+    "/pages/insights/": {
+      "title": "QuickMind Page Engagement Review | AI & Local Observations",
+      "description": "Review AI hypotheses about QuickMind page engagement and anonymous observations stored on this browser. These are not global site traffic statistics.",
+      "name": "Page Engagement Review",
+      "page": "insights",
+      "canonical": "/pages/insights/"
+    }
+  }
+}

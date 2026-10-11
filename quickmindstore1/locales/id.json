@@ -1,0 +1,154 @@
+{
+  "nav": "Navigasi utama",
+  "home": "Beranda",
+  "product": "Produk",
+  "pricing": "Paket dan harga",
+  "evidence": "Bukti ilmiah",
+  "faq": "FAQ",
+  "contact": "Kontak",
+  "compare": "Bandingkan paket",
+  "scenes": "Pengalaman internasional",
+  "registrations": "Dokumen registrasi",
+  "insights": "Analisis halaman",
+  "hero": "Latihan kognitif VR di rumah.",
+  "intro": "QuickMind menggabungkan aktivitas realitas virtual yang imersif dengan latihan kognitif untuk rutinitas di rumah bersama pendamping.",
+  "quote": "Minta penawaran",
+  "learn": "Lihat produk",
+  "homePlan": "Paket rumah",
+  "clinic": "Klinik dan fasilitas perawatan",
+  "distributor": "Distributor",
+  "training": "Perhatian, memori, berhitung, abstraksi dan fungsi eksekutif",
+  "setup": "Pengaturan dan penggunaan",
+  "equipment": "Perangkat dan aksesori",
+  "reports": "Catatan dan kemajuan latihan",
+  "researchNote": "Studi membahas penilaian atau skrining, bukan bukti efektivitas terapi paket rumah. Periksa kaitannya dengan model dan penggunaan yang tepat.",
+  "documentsNote": "Registrasi dan dokumen kesesuaian berlaku untuk produk dan pasar tertentu, bukan persetujuan global. Dokumen asli tetap dalam bahasa asalnya.",
+  "internationalNote": "Foto menunjukkan demonstrasi di Singapura dan Indonesia serta sesi komunitas di Hong Kong, bukan bukti hasil klinis.",
+  "rental": "Biaya sewa awal perangkat",
+  "annual": "Langganan tahunan",
+  "total": "Total tahun pertama",
+  "priceNote": "Belum termasuk pajak dan ongkir; konversi dari harga dasar USD. Konfigurasi dan total dikonfirmasi tertulis.",
+  "ownership": "Perangkat tetap milik pemasok. Biaya 499 USD tidak ditampilkan sebagai deposit yang dapat dikembalikan.",
+  "renewal": "Usulan perpanjangan: 1.999 USD per tahun selama sewa berkelanjutan; syarat dikonfirmasi tertulis.",
+  "delivery": "Sebutkan negara, bahasa dan jumlah perangkat untuk memastikan ketersediaan, pengiriman dan estimasi waktu.",
+  "returns": "Konfirmasikan pembatalan, pengembalian dana, batas retur, ongkir dan kerusakan sebelum membayar.",
+  "support": "Panduan pemasangan, dukungan jarak jauh, garansi dan bahasa layanan sesuai penawaran.",
+  "payment": "Bayar dengan PayPal",
+  "paymentNote": "Konfirmasikan penawaran lalu periksa barang, mata uang, jumlah dan penerima di PayPal. Metode ditentukan PayPal; pesanan situs belum tersinkron otomatis. Mata uang pembayaran PayPal adalah USD.",
+  "preview": "Pratinjau privat · Harga usulan",
+  "language": "Bahasa",
+  "menu": "Menu",
+  "name": "Nama",
+  "email": "Email",
+  "country": "Negara tujuan",
+  "organization": "Organisasi (opsional)",
+  "quantity": "Jumlah perangkat",
+  "buyer": "Jenis pelanggan",
+  "notes": "Kebutuhan (opsional)",
+  "prepare": "Siapkan email permintaan",
+  "formNote": "Formulir menyiapkan draf tanpa menyimpan data Anda di situs. Periksa dan kirim melalui aplikasi email sendiri. Jangan sertakan rekam medis.",
+  "ready": "Permintaan siap",
+  "openEmail": "Buka aplikasi email",
+  "copy": "Salin permintaan",
+  "notSent": "Email belum dikirim. Periksa dan kirim sendiri.",
+  "company": "Perusahaan dan kontak",
+  "source": "Sumber halaman",
+  "related": "Pertanyaan terkait",
+  "allQuestions": "Semua 20 pertanyaan",
+  "details": "Baca jawaban lengkap",
+  "included": "Penawaran merinci model, aksesori, modul, jumlah pengguna dan dukungan.",
+  "caution": "Konfirmasikan usia, persyaratan dan tindakan pencegahan sesuai model; data latihan bukan diagnosis.",
+  "original": "Lihat dokumen asli",
+  "homePurpose": "Latihan kognitif di rumah untuk pengguna dan pendamping",
+  "clinicPurpose": "Penilaian dan/atau latihan institusi; modul dan lisensi ditawarkan terpisah",
+  "distributorPurpose": "Penjualan lokal, demo, pelatihan dan ketentuan komersial dibahas tersendiri",
+  "questions": [
+    [
+      "Apa itu QuickMind Home?",
+      "Usulan paket perangkat VR sewaan dengan langganan latihan kognitif tahunan; konfigurasi ditetapkan dalam penawaran."
+    ],
+    [
+      "Siapa yang cocok menggunakannya?",
+      "Tergantung model, tujuan dan kebutuhan. Konfirmasikan usia, tindakan pencegahan dan kebutuhan pengawasan profesional."
+    ],
+    [
+      "Apa beda paket rumah dan klinik?",
+      "Paket rumah diusulkan untuk satu pengguna tanpa penilaian klinis; modul, kapasitas dan lisensi klinik diatur terpisah."
+    ],
+    [
+      "Latihan apa yang tersedia?",
+      "Materi menjelaskan perhatian, memori, berhitung, abstraksi dan fungsi eksekutif; kegiatan tergantung versi perangkat lunak."
+    ],
+    [
+      "Apakah ada laporan kemajuan?",
+      "Laporan dapat menampilkan kegiatan dan indikator yang didukung. Akses pendamping serta format perlu dikonfirmasi."
+    ],
+    [
+      "Perangkat apa yang termasuk?",
+      "Satu headset sewaan diusulkan; pengontrol, pengisi daya dan perangkat lain dirinci dalam penawaran."
+    ],
+    [
+      "Apa kebutuhan pemasangannya?",
+      "Internet, ruang aman, perangkat pendamping dan akun tergantung model. Minta panduan pemasangan."
+    ],
+    [
+      "Bahasa apa yang didukung perangkat lunak?",
+      "Konfirmasikan bahasa aktivitas, laporan dan dukungan pada versi tepat. Bahasa situs tidak menjamin bahasa perangkat lunak."
+    ],
+    [
+      "Berapa lama harus berlatih?",
+      "Ikuti petunjuk produk dan panduan profesional yang sesuai; situs tidak menetapkan resep latihan universal."
+    ],
+    [
+      "Apa bukti penelitiannya?",
+      "Ada empat publikasi tentang penilaian dan skrining; bukan bukti efektivitas terapi paket rumah."
+    ],
+    [
+      "Apakah disetujui di negara saya?",
+      "Dokumen berlaku untuk produk dan pasar tertentu. Konfirmasikan status lokal terkini model sebelum membeli."
+    ],
+    [
+      "Di mana pernah didemonstrasikan di luar negeri?",
+      "Foto menunjukkan demo di Singapura dan Indonesia serta sesi komunitas di Hong Kong, bukan bukti hasil klinis."
+    ],
+    [
+      "Berapa biaya tahun pertama?",
+      "Usulan AS: sewa awal 499 USD ditambah langganan tahunan 1.999 USD, total 2.498 USD sebelum pajak dan ongkir."
+    ],
+    [
+      "Apakah headset menjadi milik saya?",
+      "Tidak, perangkat tetap milik pemasok. Biaya 499 USD bukan deposit yang dinyatakan dapat dikembalikan."
+    ],
+    [
+      "Bagaimana langganan diperpanjang?",
+      "Diusulkan 1.999 USD per tahun selama sewa berlanjut. Jadwal dan pembatalan perlu disepakati; tombol tidak membuat perpanjangan otomatis."
+    ],
+    [
+      "Bagaimana membayar dengan PayPal atau kartu?",
+      "Gunakan tombol resmi setelah penawaran dikonfirmasi. PayPal menentukan metode; pesanan tidak tersinkron otomatis. Mata uang pembayaran PayPal adalah USD."
+    ],
+    [
+      "Bisakah dikirim ke negara saya?",
+      "Permintaan diterima untuk AS, Eropa, Jepang, Korea, Asia Tenggara, Timur Tengah dan tujuan lain; ketersediaan dikonfirmasi."
+    ],
+    [
+      "Bagaimana pembatalan atau pengembalian perangkat?",
+      "Dana, batas waktu, ongkir dan kerusakan disepakati tertulis sebelum pembayaran; tidak ada janji kebijakan retur universal."
+    ],
+    [
+      "Apa dukungan pemasangan dan garansinya?",
+      "Penawaran mengonfirmasi pemasangan jarak jauh, bahasa, masa garansi dan cakupan layanan."
+    ],
+    [
+      "Bagaimana klinik atau distributor meminta demo?",
+      "Gunakan formulir bersama, pilih jenis pelanggan dan isi negara, organisasi, jumlah perangkat serta kebutuhan."
+    ]
+  ],
+  "metricsNote": "Ini hipotesis konten AI, bukan tingkat retensi terukur. Catatan hanya disimpan di browser ini, tanpa analitik seluruh pengunjung.",
+  "priority": "Halaman yang mendorong eksplorasi lanjutan",
+  "contactFocus": "Halaman kontak perlu memudahkan permintaan; waktu lebih lama tidak selalu berarti hasil lebih baik.",
+  "paymentError": "PayPal tidak dapat dimuat. Coba lagi atau hubungi tim penjualan.",
+  "paymentRetry": "Coba lagi PayPal",
+  "fxNote": "Jumlah lokal merupakan perkiraan memakai kurs referensi ECB 09-10-2026. PayPal menagih dalam USD; kurs konversi dan biaya dapat berbeda.",
+  "currencyLabel": "Mata uang"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "scene": "singapore-demo",
+    "country": "Singapore",
+    "source": "pic2.jpg",
+    "context": "User-supplied overseas use photographs and deployment presentation, 7 October 2026"
+  },
+  {
+    "scene": "singapore-experience",
+    "country": "Singapore",
+    "source": "pic3.jpg",
+    "context": "User-supplied overseas use photographs and deployment presentation, 7 October 2026"
+  },
+  {
+    "scene": "indonesia-demo",
+    "country": "Indonesia",
+    "source": "pic.jpg",
+    "context": "User-supplied overseas use photographs and deployment presentation, 7 October 2026"
+  },
+  {
+    "scene": "indonesia-team",
+    "country": "Indonesia",
+    "source": "pic1.jpg",
+    "context": "User-supplied overseas use photographs and deployment presentation, 7 October 2026"
+  },
+  {
+    "scene": "hong-kong-community",
+    "country": "Hong Kong",
+    "source": "image9.jpeg",
+    "context": "User-supplied overseas use photographs and deployment presentation, 7 October 2026"
+  },
+  {
+    "scene": "hong-kong-service",
+    "country": "Hong Kong",
+    "source": "image8.jpeg",
+    "context": "User-supplied overseas use photographs and deployment presentation, 7 October 2026"
+  }
+]

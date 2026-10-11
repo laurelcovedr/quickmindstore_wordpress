@@ -1,0 +1,154 @@
+{
+  "nav": "Navegación principal",
+  "home": "Inicio",
+  "product": "Producto",
+  "pricing": "Planes y precios",
+  "evidence": "Evidencia",
+  "faq": "Preguntas",
+  "contact": "Contacto",
+  "compare": "Comparar planes",
+  "scenes": "Experiencias internacionales",
+  "registrations": "Documentación de registro",
+  "insights": "Análisis de interacción",
+  "hero": "Entrenamiento cognitivo VR en casa.",
+  "intro": "QuickMind combina actividades inmersivas de realidad virtual con entrenamiento cognitivo para una rutina en casa con apoyo del cuidador.",
+  "quote": "Solicitar presupuesto",
+  "learn": "Ver producto",
+  "homePlan": "Plan para el hogar",
+  "clinic": "Clínicas y centros de atención",
+  "distributor": "Distribuidores",
+  "training": "Atención, memoria, cálculo, abstracción y funciones ejecutivas",
+  "setup": "Instalación y uso",
+  "equipment": "Equipo y accesorios",
+  "reports": "Registros y progreso",
+  "researchNote": "Los estudios se refieren a evaluación o cribado; no demuestran la eficacia terapéutica del plan doméstico. Compruebe su relación con el modelo y uso exactos.",
+  "documentsNote": "Los registros y documentos de conformidad corresponden a productos y mercados concretos, sin implicar aprobación mundial. Los originales mantienen su idioma.",
+  "internationalNote": "Las fotos muestran demostraciones en Singapur e Indonesia y sesiones comunitarias en Hong Kong; no acreditan resultados clínicos.",
+  "rental": "Alquiler inicial del equipo",
+  "annual": "Suscripción anual",
+  "total": "Total del primer año",
+  "priceNote": "Sin impuestos ni envío; conversión del precio base en USD. El presupuesto escrito confirma configuración y total.",
+  "ownership": "El equipo es alquilado y sigue siendo propiedad del proveedor. Los 499 USD no se presentan como depósito reembolsable.",
+  "renewal": "Renovación propuesta: 1.999 USD al año durante el alquiler continuado; las condiciones se acuerdan por escrito.",
+  "delivery": "Indique país, idioma y cantidad para confirmar disponibilidad, envío y plazo de entrega.",
+  "returns": "Confirme por escrito cancelación, reembolso, devolución, portes y daños antes de pagar.",
+  "support": "La instalación, asistencia remota, garantía e idioma de soporte dependen del presupuesto.",
+  "payment": "Pagar con PayPal",
+  "paymentNote": "Confirme el presupuesto y revise artículo, moneda, importe y destinatario en PayPal. PayPal determina los métodos disponibles; no hay sincronización automática de pedidos. La moneda de cobro en PayPal es USD.",
+  "preview": "Vista privada · Precios propuestos",
+  "language": "Idioma",
+  "menu": "Menú",
+  "name": "Nombre",
+  "email": "Correo electrónico",
+  "country": "País de entrega",
+  "organization": "Organización (opcional)",
+  "quantity": "Número de equipos",
+  "buyer": "Tipo de cliente",
+  "notes": "Necesidades (opcional)",
+  "prepare": "Preparar correo de consulta",
+  "formNote": "El formulario prepara un borrador, sin guardar sus datos en el sitio. Revíselo y envíelo desde su aplicación de correo. No incluya historiales médicos.",
+  "ready": "Consulta preparada",
+  "openEmail": "Abrir correo",
+  "copy": "Copiar consulta",
+  "notSent": "El correo todavía no se ha enviado; revíselo y envíelo usted.",
+  "company": "Empresa y contacto",
+  "source": "Origen de la página",
+  "related": "Preguntas relacionadas",
+  "allQuestions": "Las 20 preguntas",
+  "details": "Leer respuesta completa",
+  "included": "El presupuesto especifica modelo, accesorios, módulos, usuarios y asistencia.",
+  "caution": "Confirme edad, requisitos y precauciones del modelo; los datos de entrenamiento no son un diagnóstico.",
+  "original": "Ver documentos originales",
+  "homePurpose": "Entrenamiento cognitivo doméstico para usuarios y cuidadores",
+  "clinicPurpose": "Evaluación y/o entrenamiento institucional; módulos y licencias cotizados aparte",
+  "distributorPurpose": "Ventas locales, demostraciones, formación y condiciones comerciales acordadas individualmente",
+  "questions": [
+    [
+      "¿Qué es QuickMind Home?",
+      "Una propuesta de equipo VR alquilado con suscripción anual de entrenamiento cognitivo; la configuración se confirma en el presupuesto."
+    ],
+    [
+      "¿Para quién es adecuado?",
+      "Depende del modelo, uso y necesidades. Confirme edad, precauciones y supervisión profesional necesaria."
+    ],
+    [
+      "¿En qué se diferencia el hogar de una clínica?",
+      "El plan doméstico propuesto es para un usuario y no incluye evaluación clínica; capacidad y módulos clínicos se cotizan aparte."
+    ],
+    [
+      "¿Qué actividades incluye?",
+      "Los materiales describen atención, memoria, cálculo, abstracción y funciones ejecutivas; la biblioteca depende de la versión."
+    ],
+    [
+      "¿Hay informes de progreso?",
+      "Pueden mostrar actividad e indicadores disponibles. Acceso del cuidador y formato se confirman según la configuración."
+    ],
+    [
+      "¿Qué equipo se incluye?",
+      "Se propone un visor alquilado; mandos, cargador y otros dispositivos se detallan por escrito."
+    ],
+    [
+      "¿Qué necesito para instalarlo?",
+      "Confirme conexión, espacio seguro, dispositivo complementario y cuenta según el modelo; solicite la guía."
+    ],
+    [
+      "¿Qué idiomas admite el software?",
+      "Confirme el idioma de actividades, informes y asistencia de la versión exacta. El idioma del sitio no garantiza el del software."
+    ],
+    [
+      "¿Cuánto tiempo debo entrenar?",
+      "Siga las instrucciones del producto y la orientación profesional pertinente; no hay una pauta universal en este sitio."
+    ],
+    [
+      "¿Qué evidencia científica existe?",
+      "Hay cuatro publicaciones sobre evaluación y cribado; no prueban la eficacia terapéutica del plan doméstico."
+    ],
+    [
+      "¿Está autorizado en mi país?",
+      "Los documentos son específicos de producto y mercado. Confirme la situación actual del modelo antes de comprar."
+    ],
+    [
+      "¿Dónde se ha mostrado en el extranjero?",
+      "Hay fotos de demostraciones en Singapur e Indonesia y sesiones comunitarias en Hong Kong, sin afirmar resultados clínicos."
+    ],
+    [
+      "¿Cuánto cuesta el primer año?",
+      "Propuesta estadounidense: 499 USD de alquiler inicial más 1.999 USD de suscripción anual, total 2.498 USD sin impuestos ni envío."
+    ],
+    [
+      "¿Seré propietario del visor?",
+      "No, el proveedor conserva la propiedad. Los 499 USD no se describen como depósito reembolsable."
+    ],
+    [
+      "¿Cómo se renueva la suscripción?",
+      "Se proponen 1.999 USD al año con alquiler continuado. Fechas y cancelación se acuerdan; el botón no crea renovación automática."
+    ],
+    [
+      "¿Cómo pago con PayPal o tarjeta?",
+      "Use el botón oficial tras confirmar el presupuesto. PayPal determina los métodos; el pedido no se sincroniza automáticamente. La moneda de cobro en PayPal es USD."
+    ],
+    [
+      "¿Pueden enviar a mi país?",
+      "Se aceptan consultas para EE. UU., Europa, Japón, Corea, Sudeste Asiático, Oriente Medio y otros destinos; confirme disponibilidad."
+    ],
+    [
+      "¿Qué ocurre si cancelo o devuelvo?",
+      "Reembolso, plazos, portes y daños se acuerdan por escrito antes de pagar; no se promete una política universal."
+    ],
+    [
+      "¿Qué asistencia y garantía hay?",
+      "El presupuesto confirma instalación remota, idiomas, duración de garantía y cobertura."
+    ],
+    [
+      "¿Cómo pide una demostración una clínica o distribuidor?",
+      "Utilice el formulario común, elija su perfil e indique país, organización, cantidad y necesidades."
+    ]
+  ],
+  "metricsNote": "Son hipótesis de contenido de IA, no tasas medidas. Las observaciones se guardan solo en este navegador, sin análisis global conectado.",
+  "priority": "Páginas con mayor potencial de exploración",
+  "contactFocus": "El contacto debe facilitar la consulta; más tiempo no siempre significa mejor resultado.",
+  "paymentError": "No se pudo cargar PayPal. Reintente o contacte con ventas.",
+  "paymentRetry": "Reintentar PayPal",
+  "fxNote": "Importes locales orientativos al tipo de referencia del BCE del 09/10/2026. PayPal cobra en USD; su conversión y comisiones pueden variar.",
+  "currencyLabel": "Moneda"
+}

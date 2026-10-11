@@ -1,0 +1,32 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "QuickMind Draft",
+    "theme_version": "1.0.0",
+    "theme_author": "YIWEI MEDICAL",
+    "theme_documentation_url": "https://shopify.dev/docs/storefronts/themes",
+    "theme_support_url": "https://quickmindstore.com/"
+  },
+  {
+    "name": "QuickMind store setup",
+    "settings": [
+      {
+        "type": "product",
+        "id": "home_product",
+        "label": "Annual Home subscription product"
+      },
+      {
+        "type": "text",
+        "id": "seller_name",
+        "label": "Approved legal seller",
+        "default": "Legal seller pending confirmation"
+      },
+      {
+        "type": "checkbox",
+        "id": "enable_purchase",
+        "label": "Enable purchases after commercial and regulatory approval",
+        "default": false
+      }
+    ]
+  }
+]

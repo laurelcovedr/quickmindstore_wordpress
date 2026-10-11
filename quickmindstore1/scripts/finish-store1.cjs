@@ -1,0 +1,3 @@
+const fs=require('fs'),path=require('path');
+function walk(dir){return fs.readdirSync(dir,{withFileTypes:true}).flatMap(p=>p.isDirectory()?walk(path.join(dir,p.name)):[path.join(dir,p.name)])}
+for(const file of walk('dist').filter(p=>p.endsWith('.html'))){let html=fs.readFileSync(file,'utf8');if(!html.includes('/languages.css'))continue;html=html.replace(/<link rel="stylesheet" href="\/store1.css">/g,'').replace('</head>','<link rel="stylesheet" href="/store1.css"></head>');html=html.replace(/<div class="review-bar">[\s\S]*?<\/div>/,'<div class="review-bar">QUICKMIND STORE1 · PRIVATE COMPARISON EDITION <a class="s1-review-link" href="/pages/design-review/">改版对比 / Design comparison ↗</a></div>');fs.writeFileSync(file,html)}

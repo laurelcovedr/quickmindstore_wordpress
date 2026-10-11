@@ -1,0 +1,1 @@
+const fs=require('node:fs'),path=require('node:path');const root=path.resolve(__dirname,'..'),fx=JSON.parse(fs.readFileSync(path.join(root,'locales/exchange-rates.json'),'utf8'));fs.writeFileSync(path.join(root,'dist/locale-data.js'),'globalThis.qmLocaleData='+JSON.stringify({fx}).replace(/</g,'\\u003c')+';\n');
