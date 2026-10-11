@@ -1,0 +1,160 @@
+{
+  "started": "2026-10-11T20:38:59.912Z",
+  "browser_qa": true,
+  "real_payment_test": false,
+  "cases": [
+    {
+      "name": "phone/en/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "phone/zh-CN/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "phone/es/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "phone/fr/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "phone/de/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "phone/ja/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "phone/ko/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "phone/id/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "tablet/en/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "tablet/zh-CN/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "tablet/es/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "tablet/fr/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "tablet/de/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "tablet/ja/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "tablet/ko/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "tablet/id/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "desktop/en/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "desktop/zh-CN/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "desktop/es/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "desktop/fr/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "desktop/de/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "desktop/ja/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "desktop/ko/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "desktop/id/layout-navigation-faq-form",
+      "status": "passed"
+    },
+    {
+      "name": "eight-language-switch-preserves-query-hash",
+      "status": "passed"
+    },
+    {
+      "name": "geo-fixture/US",
+      "status": "passed"
+    },
+    {
+      "name": "geo-fixture/CN",
+      "status": "passed"
+    },
+    {
+      "name": "geo-fixture/ES",
+      "status": "passed"
+    },
+    {
+      "name": "geo-fixture/FR",
+      "status": "passed"
+    },
+    {
+      "name": "geo-fixture/DE",
+      "status": "passed"
+    },
+    {
+      "name": "geo-fixture/JP",
+      "status": "passed"
+    },
+    {
+      "name": "geo-fixture/KR",
+      "status": "passed"
+    },
+    {
+      "name": "geo-fixture/ID",
+      "status": "passed"
+    },
+    {
+      "name": "manual-language-currency-override-survives-new-IP",
+      "status": "passed"
+    },
+    {
+      "name": "geo-network-failure-fallback",
+      "status": "passed"
+    },
+    {
+      "name": "paypal-blocked-not-real-payment",
+      "status": "passed"
+    },
+    {
+      "name": "paypal-fixture-not-real-payment",
+      "status": "passed"
+    }
+  ],
+  "scope": "Chromium viewport emulation; not physical devices or Safari. Geo/PayPal fixtures are not live validation.",
+  "baseURL": "http://127.0.0.1:43187",
+  "fixtureMode": true,
+  "browserVersion": "151.0.7922.34",
+  "finished": "2026-10-11T20:40:02.284Z"
+}
