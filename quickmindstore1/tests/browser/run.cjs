@@ -19,7 +19,7 @@ async function context(viewport,{country='US',geoFailure=false,paypal='blocked',
  return c;
 }
 async function ready(p,url){const r=await p.goto(base+url,{waitUntil:'domcontentloaded'});assert(r.ok(),`HTTP ${r.status()}`);await p.locator('#app h1').waitFor();}
-async function snapshot(p,name){await p.screenshot({path:path.join(out,name+'.png'),fullPage:true});}
+async function snapshot(p,name){for(const img of await p.locator('img').all()){if(await img.isVisible()){await img.scrollIntoViewIfNeeded();await img.evaluate(el=>Promise.race([el.decode().catch(()=>{}),new Promise(r=>setTimeout(r,3000))]));}}await p.evaluate(()=>window.scrollTo(0,0));await p.screenshot({path:path.join(out,name+'.png'),fullPage:true});}
 async function form(p,lang){const f=p.locator(lang==='en'?'[data-quote-form]':'[data-locale-quote]');await f.waitFor();await f.locator('[type=submit]').click();assert.equal(await f.evaluate(el=>el.checkValidity()),false,'Empty required fields must be invalid');await f.locator('[name=name]').fill('QA Example');await f.locator('[name=email]').fill('qa@example.invalid');await f.locator('[name=country]').fill('Japan');await f.locator('[name=quantity]').fill('2');await f.locator('[type=submit]').click();const text=p.locator(lang==='en'?'#request-preview':'#local-request');await text.waitFor({state:'visible'});assert.match(await text.inputValue(),/QA Example/);assert.match(await text.inputValue(),/qa@example.invalid/);assert.match(await text.inputValue(),/browser-qa/);const mail=p.locator(lang==='en'?'#send-email':'#local-mail');assert.match(await mail.getAttribute('href'),/^mailto:yiweiinc99@gmail.com\?/);}
 (async()=>{
  try{
