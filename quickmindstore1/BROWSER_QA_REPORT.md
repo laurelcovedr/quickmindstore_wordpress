@@ -1,30 +1,44 @@
-# Store1 浏览器验收准备与阻塞记录
+# Store1 浏览器验收报告
 
-日期：2026-10-11。GitHub 基线：`41d853fcd8d16d376454d0eaec85183e70e26b29`。
+日期：2026-10-12（北京时间）。PR #1；通过测试的源码提交：`d98037709a4e90f63ed529a62df368586dabe50e`。
 
-## 当前结论
+## 结论
 
-**浏览器验收未完成，不能批准上线。** 本次未确认任何前端问题，未修改业务源码。生产 quickmindstore.com、私有预览访问权限和 noindex 均未修改。
+**GitHub Actions 对仓库源码的 Chromium 验收：37 个分组用例通过，0 失败。** 运行于 Ubuntu，Chromium 151.0.7922.34。共访问 120 个关键页面/视口组合（5 类页面 × 8 种语言 × 3 种视口），生成 74 张 PNG。此范围不是全部 244 个页面的逐页视觉验收，也不代表实体设备、Safari 或其他浏览器通过。
 
-Playwright 已安装（1.62.1），但本机缺少 Chromium 可执行文件。实际启动失败；官方浏览器下载连续返回无法解压的包。远程浏览器打开独立预览后显示 `Sign in required / Log in to access / Continue with ChatGPT`，没有进入 Store1 内容。另一个 CDP 连接尝试返回 502。以上都是环境/访问阻塞，不是已确认的网站错误。
+本次未确认需要修复的业务前端缺陷，业务源码保持不变。修改的是测试路径与截图方法。未部署、未合并 PR、未修改生产 quickmindstore.com、访问权限或 noindex。
 
-## 前后对照与验收状态
+- [成功运行与日志](https://github.com/laurelcovedr/quickmindstore_wordpress/actions/runs/38173050177)
+- [74 张截图和完整 JSON 结果](https://github.com/laurelcovedr/quickmindstore_wordpress/actions/runs/38173050177/artifacts/11714542769)（需要仓库访问权限；Actions 附件保留至 2026-10-25 20:40 UTC）
+- 永久结果记录：`browser-qa-artifacts/results.json`。截图附件摘要 SHA-256：`4e620a111fef61e975e0f6038652763fc4eb8b2e2c329569e3640ff110e194d0`。
 
-| 项目 | 修改前 | 本次交付 | 实际状态 |
+## 验收与修改前后对照
+
+| 项目 | 修改前/首次结果 | 本次处理及结果 | 验证边界 |
 |---|---|---|---|
-| 重复浏览器验收 | 只有静态/模拟脚本 | 新增 Playwright 浏览器脚本和 GitHub Actions | 语法检查通过；启动受阻，0 条浏览器用例通过 |
-| 手机/平板/桌面 | 未实测 | 390×844、768×1024、1440×900 的布局、菜单和截图用例 | 待执行；视口模拟不代表实体设备或 Safari |
-| 八种语言 | 静态/模拟检查 | 首页/产品/价格/FAQ/表单矩阵，以及切换保留 URL 参数和锚点 | 待执行 |
-| IP 默认语言/货币 | 模拟检查 | 8 个国家响应、网络失败、手动覆盖及刷新持久化用例 | 待执行；固定响应为 fixture，不代表真实 IP |
-| FAQ | 未实测 | 鼠标展开、键盘 Enter 收起 | 待执行 |
-| 询盘 | 邮件草稿机制 | 必填验证、生成草稿、来源参数和 mailto 检查；只用虚构资料 | 待执行；不代表邮件送达 |
-| PayPal | 未实测 | SDK 失败/重试及 fixture 渲染；另有不拦截 SDK 的 live 模式 | 待执行；fixture 不是 PayPal 验证 |
-| 真付款/订单/折扣/结算/invoice | real_payment_test=false | 明确保留 false | 仍需支付及订单后台、webhook、测试账户和经授权的交易验收 |
-| 前端修复 | 没有浏览器错误证据 | 未作推测性修复 | 取得失败记录后再修复并回归 |
+| 浏览器环境 | 本地缺少 Chromium，下载受阻 | GitHub Actions 成功安装并启动 Chromium | 仓库 dist 通过本地 HTTP 服务运行；不是已部署预览 |
+| 手机/平板/桌面 | 未实测 | 390×844、768×1024、1440×900 三种视口通过页面宽度、导航及关键交互检查 | 视口模拟，不是实体设备；导航展开/收起仅在折叠按钮可见时执行 |
+| 八种语言 | 静态/模拟检查 | en、zh-CN、es、fr、de、ja、ko、id 的首页、产品、价格、FAQ、联系页通过 | 不代表母语文案质量通过 |
+| 语言切换 | 未实测 | 八语言切换保留 UTM 和锚点，通过 | 真实浏览器，使用确定的 IP 响应 |
+| 主要购买入口 | 首轮错误地要求七种非英语产品页直接有 PayPal，21 个分组失败 | 按实际流程检查产品页可见询价入口及归因、价格页支付组件，全部通过 | 先询价流程；未提交订单 |
+| 来源链接 | 第二轮精确 href 定位遗漏自动附加的 qm_source 参数 | 改为按路径前缀定位并检查归因标签；全部通过 | 测试定位修复，不是业务代码修复 |
+| IP 默认值/手动覆盖 | 模拟检查 | 8 个国家响应、语言/货币默认值、手动覆盖、新 IP 情况、货币刷新持久化、网络失败回退通过 | ipapi 请求被 fixture 替代；不代表真实 IP 服务可用性 |
+| FAQ | 未实测 | 鼠标展开、Enter 收起通过 | Chromium 键盘交互；未做屏幕阅读器验收 |
+| 询盘表单 | 未实测 | 必填校验、虚构资料生成草稿、UTM 来源和 mailto 地址通过 | 未发送邮件、未验证送达或服务器线索入库 |
+| PayPal 失败/重试 | 未实测 | 请求失败时错误提示与重试通过；fixture 渲染通过 | SDK 被阻断或替换；不是实际 PayPal 加载验证 |
+| 截图 | 首轮全页截图可能尚未加载视口外图片 | 滚动可见图片、等待解码、再截图；生成 74 张 | 已查看中文手机产品、英文平板首页及英文桌面草稿等代表截图；未逐张完成人工审美评审 |
+| 页面错误/noindex | 没有真实浏览器结果 | 所有页面分组无未捕获 JS 异常，关键页面 noindex 检查通过 | 不代表第三方 console/network 警告全部消除 |
+| 真实付款/订单/webhook | real_payment_test=false | 继续保持 false | 需实际支付环境、订单后台、webhook、退款/优惠/代理结算/invoice 验收 |
 
-## 运行和证据
+## 复现和证据
 
-从仓库的 `quickmindstore1` 目录运行：
+首轮 Actions `38127083561`：16 通过、21 失败。任一非英语 `/home-product/` 页无直接 PayPal 组件，脚本报 `Payment entry absent`。读取实际流程后确认产品页提供询价，PayPal 在价格页，此为测试假设不适配。
+
+第二轮 `38172950400`：16 通过、21 失败。询盘按钮 href 自动附加归因参数，精确 URL 选择器报 `Visible quotation entry absent`。修改选择器保留对路径和来源标签的验证。
+
+最终运行 `38173050177`：37 通过、0 失败，2026-10-12 04:38:59–04:40:02（北京时间）。原有交互、归因、IP 和货币源码回归脚本也通过；这些模拟检查与真实浏览器结果分开记录。
+
+从仓库 `quickmindstore1` 目录运行：
 
 ```bash
 npm install --ignore-scripts
@@ -32,21 +46,10 @@ npx playwright install --with-deps chromium
 npm run test:browser
 ```
 
-不设置 `QA_BASE_URL` 时，脚本自动启动本地静态服务器，使用仓库 dist；每个用例新建浏览器上下文。输出 `browser-qa-artifacts/results.json` 和关键页面 PNG。失败保持非零退出码。截图是验收证据，仍需人工视觉检查，不能单凭无横向溢出断言排版美观。
+默认自动启动本地 dist 静态服务器；每组新建浏览器上下文。Geo 和 PayPal fixture 有明确标识，无真实支付、邮件发送或订单动作。输出到 `browser-qa-artifacts/`，失败返回非零退出码。Actions 在 PR 更新时运行，并保存 PNG/JSON 附件。
 
-GitHub Actions 在 PR 或手动运行时安装 Chromium，执行相同脚本，并保存结果与截图为 14 天的 workflow artifact。此配置尚未运行；不能把配置存在视为通过。
+## 尚未验证
 
-针对限制访问的预览，可在受信任执行环境通过环境变量传入短期 `QA_SITE_TOKEN`，只发送到精确的 Store1 域名；不要提交或打印令牌：
+限制访问的已部署预览仍未完成登录验收；本次未改变其权限。原 `site-scan-validation.json` 保留此前静态扫描记录，本次新结果单独保存，不把它改写成已部署预览或真实付款通过。
 
-```bash
-QA_BASE_URL=https://quickmind-store1.lawrence-wan-0405.chatgpt.site QA_LIVE=1 npm run test:browser
-```
-
-`QA_LIVE=1` 不拦截 IP 或 PayPal 请求，只验证 SDK 和 iframe 加载，不点击支付、不开订单、不发邮件。真实 IP 地区矩阵需要来自不同国家的实际网络结果；本次 fixture 用例不能替代。
-
-## 复现阻塞
-
-1. 在当前执行环境运行 `node tests/browser/run.cjs`：返回缺少 chromium_headless_shell-1234 的错误；结果文件记录 browser_qa=false、real_payment_test=false、cases=[]。
-2. 打开独立预览：显示登录页，无法检查 Store1 的菜单和页面。
-
-接下来需要可运行 Chromium 的执行环境（可用上述 Actions），以及已获授权登录的预览浏览器。完成后把实际失败、截图和修复回归追加到本报告，再将 PR 标为可审阅。
+实际 IP 国家矩阵需来自不同国家的网络实测。实际 PayPal SDK/hosted iframe 加载可在受信任环境设置 `QA_BASE_URL`、`QA_LIVE=1` 运行；私有预览的短期 `QA_SITE_TOKEN` 仅由环境变量传入且仅发往精确 Store1 域名，不提交、不打印。该模式不点击付款，仍不能替代真实支付/订单验收。
