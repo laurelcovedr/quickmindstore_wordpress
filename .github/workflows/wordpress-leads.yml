@@ -1,0 +1,62 @@
+name: WordPress leads staging integration
+on:
+  pull_request:
+    paths: ['quickmindstore1/wordpress/**', 'quickmindstore1/dist/lead-client.js', '.github/workflows/wordpress-leads.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  wordpress:
+    runs-on: ubuntu-latest
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_ROOT_PASSWORD: test
+          MYSQL_DATABASE: wordpress
+        ports: ['3306:3306']
+        options: --health-cmd="mysqladmin ping -ptest" --health-interval=10s --health-timeout=5s --health-retries=10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          extensions: mysqli
+          tools: wp-cli
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: PHP lint and shared client tests
+        run: |
+          find quickmindstore1/wordpress -name '*.php' -exec php -l {} \;
+          cd quickmindstore1
+          node scripts/test-lead-client.cjs
+      - name: Disposable WordPress and real MySQL
+        run: |
+          mkdir /tmp/qm-wp
+          wp core download --path=/tmp/qm-wp
+          wp config create --path=/tmp/qm-wp --dbname=wordpress --dbuser=root --dbpass=test --dbhost=127.0.0.1:3306
+          wp config set WP_ENVIRONMENT_TYPE staging --path=/tmp/qm-wp
+          wp core install --path=/tmp/qm-wp --url=http://127.0.0.1:8080 --title=Test --admin_user=test --admin_password=temporary-ci-only --admin_email=admin@example.com --skip-email
+          cp -R quickmindstore1/wordpress/quickmind-leads /tmp/qm-wp/wp-content/plugins/
+          wp plugin activate quickmind-leads --path=/tmp/qm-wp
+          wp rewrite structure '/%postname%/' --path=/tmp/qm-wp
+          wp eval-file "$PWD/quickmindstore1/wordpress/tests/integration.php" --path=/tmp/qm-wp
+      - name: Real browser with REST API
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+          wp server --path=/tmp/qm-wp --host=127.0.0.1 --port=8080 > /tmp/qm-wp-server.log 2>&1 &
+          for i in $(seq 1 30); do curl -sf http://127.0.0.1:8080/ > /dev/null && break; sleep 1; done
+          node quickmindstore1/wordpress/tests/browser.cjs
+          wp db query "SELECT customer_type,language,notification FROM wp_qm_leads WHERE email='browser@example.com'" --path=/tmp/qm-wp
+      - name: Build installable ZIP
+        run: |
+          cd quickmindstore1/wordpress
+          zip -r quickmind-leads-1.0.0.zip quickmind-leads
+      - uses: actions/upload-artifact@v4
+        with:
+          name: quickmind-leads-plugin-and-browser-evidence
+          path: |
+            quickmindstore1/wordpress/quickmind-leads-1.0.0.zip
+            wordpress-browser.png
