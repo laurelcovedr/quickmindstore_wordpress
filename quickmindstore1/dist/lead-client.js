@@ -16,18 +16,18 @@ export function prepare(form){if(state.has(form))return;const t=copy[language()]
  form.append(box);const b=form.querySelector('[type=submit]');if(b){b.textContent=t[0];b.disabled=false}}
 export async function submit(form){prepare(form);const s=state.get(form),t=copy[language()];if(s.busy||!form.reportValidity())return;
  const d=new FormData(form),at=typeof inquiryAttribution==='function'?inquiryAttribution():{page:location.pathname,cta:'direct-form',reference:'',utm:{}};
- const buyer=d.get('buyer');const type={'Home user / caregiver':'home','Clinic / care organization':'clinic','Distributor / commercial partner':'distributor'}[buyer]||'home';
+ const buyer=d.get('buyer');const selected=form.querySelector('[name=buyer]');const type=(['home','clinic','distributor'].includes(buyer)&&buyer)||(selected&&['home','clinic','distributor'][selected.selectedIndex])||{'Home user / caregiver':'home','Clinic / care organization':'clinic','Distributor / commercial partner':'distributor'}[buyer]||'home';
  let utm=at.utm;try{if(d.get('source_campaign'))utm=JSON.parse(d.get('source_campaign'))}catch{}
  const payload={submission_id:s.id,customer_type:type,language:language(),consent:d.get('lead_consent')==='on',website:d.get('website')||'',source_page:d.get('source_page')||at.page,source_cta:d.get('source_cta')||at.cta,source_reference:d.get('source_reference')||at.reference,utm};
  for(const k of ['name','email','country','organization','quantity','payment','notes'])payload[k]=d.get(k)||'';
  const fingerprint=JSON.stringify({...payload,submission_id:null});if(s.last&&s.last!==fingerprint)s.id=crypto.randomUUID();payload.submission_id=s.id;s.last=fingerprint;
  const b=form.querySelector('[type=submit]'),status=form.querySelector('[data-lead-status]');s.busy=true;if(b)b.disabled=true;status.textContent=t[2];
  const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),12000);
- try{const r=await fetch(endpoint()+'/v1/leads',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload),signal:controller.signal,credentials:'omit'});const result=await r.json();if(!r.ok||result.ok!==true||result.stored!==true||!result.lead_id)throw Error('unconfirmed');status.textContent=t[3]+result.lead_id;
+ try{const r=await fetch((window.QM_LEAD_ENDPOINT||endpoint()+'/v1/leads'),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload),signal:controller.signal,credentials:'omit'});const result=await r.json();if(!r.ok||result.ok!==true||result.stored!==true||!result.lead_id)throw Error('unconfirmed');status.textContent=t[3]+result.lead_id;
  if(typeof addMetric==='function')addMetric(payload.source_page,'acceptedLeads');
  if(d.get('analytics_consent')==='on'&&navigator.doNotTrack!=='1'&&navigator.globalPrivacyControl!==true){window.qmAnalyticsConsent=true;event('page_view');}
  }catch{status.textContent=t[4]}finally{clearTimeout(timer);s.busy=false;if(b)b.disabled=false}}
-function event(kind,cta=''){if(window.qmAnalyticsConsent!==true||navigator.doNotTrack==='1'||navigator.globalPrivacyControl===true)return;fetch(endpoint()+'/v1/events',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:crypto.randomUUID(),consent:true,event:kind,source_page:location.pathname,source_cta:cta,language:language()}),credentials:'omit'}).catch(()=>{})}
+function event(kind,cta=''){if(window.QM_LEAD_ENDPOINT)return;if(window.qmAnalyticsConsent!==true||navigator.doNotTrack==='1'||navigator.globalPrivacyControl===true)return;fetch(endpoint()+'/v1/events',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:crypto.randomUUID(),consent:true,event:kind,source_page:location.pathname,source_cta:cta,language:language()}),credentials:'omit'}).catch(()=>{})}
 window.qmMeasurePage=()=>event('page_view');
 window.qmSetAnalyticsConsent=value=>{window.qmAnalyticsConsent=value===true;if(value===true)event('page_view')};
 function scan(){document.querySelectorAll(forms).forEach(prepare)}
