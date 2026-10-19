@@ -16,7 +16,7 @@ export function prepare(form){if(state.has(form))return;const t=copy[language()]
  form.append(box);const b=form.querySelector('[type=submit]');if(b){b.textContent=t[0];b.disabled=false}}
 export async function submit(form){prepare(form);const s=state.get(form),t=copy[language()];if(s.busy||!form.reportValidity())return;
  const d=new FormData(form),at=typeof inquiryAttribution==='function'?inquiryAttribution():{page:location.pathname,cta:'direct-form',reference:'',utm:{}};
- const buyer=d.get('buyer');const selected=form.querySelector('[name=buyer]');const type=(selected&&['home','clinic','distributor'][selected.selectedIndex])||{'Home user / caregiver':'home','Clinic / care organization':'clinic','Distributor / commercial partner':'distributor'}[buyer]||'home';
+ const buyer=d.get('buyer');const selected=form.querySelector('[name=buyer]');const type=(['home','clinic','distributor'].includes(buyer)&&buyer)||(selected&&['home','clinic','distributor'][selected.selectedIndex])||{'Home user / caregiver':'home','Clinic / care organization':'clinic','Distributor / commercial partner':'distributor'}[buyer]||'home';
  let utm=at.utm;try{if(d.get('source_campaign'))utm=JSON.parse(d.get('source_campaign'))}catch{}
  const payload={submission_id:s.id,customer_type:type,language:language(),consent:d.get('lead_consent')==='on',website:d.get('website')||'',source_page:d.get('source_page')||at.page,source_cta:d.get('source_cta')||at.cta,source_reference:d.get('source_reference')||at.reference,utm};
  for(const k of ['name','email','country','organization','quantity','payment','notes'])payload[k]=d.get(k)||'';

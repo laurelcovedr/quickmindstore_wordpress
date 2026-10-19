@@ -49,7 +49,7 @@ final class QM_Leads {
   if (!in_array($d['language'],self::LANGS,true) || !in_array($d['customer_type'],['home','clinic','distributor'],true)) return self::error('type_language');
   if (!ctype_digit($d['quantity']) || (int)$d['quantity']<1 || (int)$d['quantity']>10000) return self::error('quantity');
   if (!str_starts_with($d['source_page'],'/') || str_starts_with($d['source_page'],'//') || strpbrk($d['source_page'],'?#')!==false) return self::error('page');
-  if (!preg_match('/^[a-zA-Z0-9-]{16,80}$/',$p['submission_id']??'')) return self::error('submission_id');
+  if (!is_string($p['submission_id']??null) || !preg_match('/^[a-zA-Z0-9-]{16,80}$/',$p['submission_id'])) return self::error('submission_id');
   if (isset($p['utm']) && !is_array($p['utm'])) return self::error('utm');
   $d['utm']=[];
   foreach (['utm_source','utm_medium','utm_campaign','utm_content','utm_term'] as $k) {
@@ -66,7 +66,7 @@ final class QM_Leads {
   $expected=wp_parse_url(home_url('/'),PHP_URL_SCHEME).'://'.wp_parse_url(home_url('/'),PHP_URL_HOST);
   $port=wp_parse_url(home_url('/'),PHP_URL_PORT); if ($port) $expected.=':'.$port;
   if ($origin!==$expected) return self::error('origin',403);
-  if (!str_starts_with(strtolower($r->get_header('content-type')),'application/json')) return self::error('content_type',415);
+  if (strtolower(trim(explode(';',$r->get_header('content-type'))[0]))!=='application/json') return self::error('content_type',415);
   if (strlen($r->get_body())>16384) return self::error('size',413);
   return true;
  }

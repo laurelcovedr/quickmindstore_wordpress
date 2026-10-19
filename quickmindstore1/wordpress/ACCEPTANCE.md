@@ -5,7 +5,8 @@ No hosting panel URL, staging URL or host credentials were supplied in this task
 | Check | Evidence / status |
 |---|---|
 | Existing shared JS client success, failure, retained fields, retries, locale dictionary | Local Node DOM harness passed; not a real browser |
-| Native WordPress PHP/MySQL and Playwright | Automated workflow added; consult actual PR checks for execution result |
+| PHP syntax | Local PHP 8.3 lint passed for plugin and integration test |
+| Native WordPress PHP/MySQL and Playwright | Automated workflow started in PR #3; consult checks for execution result |
 | User staging plugin installation / schema creation | NOT VERIFIED |
 | User staging all 8 languages × home/clinic/distributor writes | NOT VERIFIED |
 | Actual Store1 layouts and form/browser integration on host | NOT VERIFIED |

@@ -11,7 +11,7 @@ foreach (QM_Leads::LANGS as $lang) foreach (['home','clinic','distributor'] as $
 }
 delete_transient($rate); $p=payload_qm(); $a=request_qm($p)->get_data(); $b=request_qm($p); check_qm($b->get_status()===200 && $b->get_data()['lead_id']===$a['lead_id'],'idempotency');
 $p['name']='Changed'; check_qm(request_qm($p)->get_status()===409,'conflict');
-foreach (['consent'=>false,'website'=>'spam','email'=>'bad','quantity'=>'0','language'=>'xx','customer_type'=>'other','source_page'=>'//evil','utm'=>'bad'] as $k=>$v) { $p=payload_qm(); $p[$k]=$v; check_qm(request_qm($p)->get_status()===422,"reject $k"); }
+foreach (['consent'=>false,'website'=>'spam','email'=>'bad','quantity'=>'0','language'=>'xx','customer_type'=>'other','source_page'=>'//evil','utm'=>'bad','submission_id'=>['bad']] as $k=>$v) { $p=payload_qm(); $p[$k]=$v; check_qm(request_qm($p)->get_status()===422,"reject $k"); }
 check_qm(rest_do_request(new WP_REST_Request('POST','/quickmind/v1/leads'))->get_status()===403,'origin');
 check_qm(!current_user_can('manage_options'),'anonymous administration denied');
 check_qm(QM_Leads::csv_cell(" \t=1")==="' \t=1",'CSV injection');
